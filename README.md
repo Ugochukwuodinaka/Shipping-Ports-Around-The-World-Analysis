@@ -121,7 +121,7 @@ From the analysis, i made the following Key findings below:
 A notable presence of "Anchorage" indicates areas where vessels anchor, possibly for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating and possibly tourism-related maritime activities. "Canals," although a smaller percentage, may represent critical waterways designed for navigation and transportation purposes.
 
 
-- <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="250">
+- <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="300">
 - **Top 10 Ports By Vvessels In Traffic:**
 - In this analysis of the Top 10 Ports By Vessels In Traffic, i came up with the below insights:
 - __Shanghai Dominates Vessel Traffic:__ Shanghai emerges as the leading port in terms of vessel traffic, with a substantial count of 2,420 vessels in port. This dominance highlights Shanghai's strategic importance as a major hub for maritime transportation and trade in the region.
