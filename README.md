@@ -119,3 +119,18 @@ From the analysis, i made the following Key findings below:
 - __Port Type Distribution:__ The dataset provides a breakdown of port types, including Port, Anchorage, Marina, and Canal. The majority of the entries fall under the category of traditional __"Ports,"__ constituting approximately 81.46% of the total. __"Anchorage"__ comes next, representing 13.75% of the total, indicating a significant presence of locations where vessels anchor rather than dock. __"Marina"__ and __"Canal"__ types contribute relatively smaller percentages, accounting for 3.75% and 1.04%, respectively.
 - __Implications of Port Types:__ The dominance of traditional "Ports" suggests a substantial infrastructure dedicated to handling various types of cargo and facilitating maritime trade.
 A notable presence of "Anchorage" indicates areas where vessels anchor, possibly for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating and possibly tourism-related maritime activities. "Canals," although a smaller percentage, may represent critical waterways designed for navigation and transportation purposes.
+
+
+- <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="250">
+- **Top 10 Ports By Vvessels In Traffic:**
+- In this analysis of the Top 10 Ports By Vessels In Traffic, i came up with the below insights:
+- __Shanghai Dominates Vessel Traffic:__ Shanghai emerges as the leading port in terms of vessel traffic, with a substantial count of 2,420 vessels in port. This dominance highlights Shanghai's strategic importance as a major hub for maritime transportation and trade in the region.
+- __Significance of Chinese Ports:__ Chinese ports feature prominently in the top 10 list, with Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, Zhoushan, and Yangzhou all making the cut.
+This underscores China's role as a key player in the global shipping industry, with several ports handling significant volumes of vessel traffic.
+- __Regional Influence:__ The presence of ports like Singapore and Tianjin in the top 10 list indicates the regional significance of these maritime hubs. Singapore, known for its strategic location and world-class port facilities, serves as a crucial gateway to Asia and beyond. Tianjin, located in northern China, serves as a vital port for trade in the Bohai Bay region and beyond.
+- __Implications for Trade and Commerce:__ The high volume of vessel traffic in these ports reflects the intense economic activity and trade flows in their respective regions. Ports with high vessel traffic are likely to have robust infrastructure and logistics capabilities to handle the influx of ships and cargo efficiently. Stakeholders involved in global trade and logistics can use this information to optimize supply chain routes and operations.
+Operational Challenges and Opportunities:
+
+
+
+
