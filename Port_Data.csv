@@ -1,0 +1,481 @@
+Serial_No,Country,Port Name,UN Code,Vessels in Port,Departures(Last 24 Hours),Arrivals(Last 24 Hours),Expected Arrivals,Type,Area Local,Area Global,Also known as
+1,China,SHANGHAI,CNSHG,2420,1376,1626,644,Port,East China Sea,Central China,"['SHANG HAI', ' YANGSHAN', ' CNSHA', ' CNSGH']"
+2,China,NANTONG,CNNTG,1572,1173,1287,234,Port,East China Sea,Central China,['NAN TONG']
+3,China,CJK,CNCJK,1529,343,370,310,Anchorage,East China Sea,Central China,"['CHANGJIANGKOU', ' CHANGJIANG KOU', ' CJK CN']"
+4,China,NANJING,CNNKG,1414,667,1060,203,Port,East China Sea,Central China,"['NAN JING', ' NAN JIN', ' NANJIN']"
+5,China,JIANGYIN,CNJIA,1112,1076,1070,166,Port,East China Sea,Central China,"['-', ' JANG JIN', ' JIANG YIN']"
+6,Singapore,SINGAPORE,SGSIN,1109,1682,1748,1205,Port,Singapore Area,Indonesia,"['SPORE', ' SINGPORE', ' SIN EBGA', ' SIN PEBGA']"
+7,China,ZHANGJIAGANG,CNZJG,1094,653,608,120,Port,East China Sea,Central China,"['ZHANG JIA GANG', ' ZHANG GIAN GANG', ' ZHAN JIANG']"
+8,China,ZHOUSHAN,CNZOS,1064,791,839,463,Port,East China Sea,Central China,"['ZHOU SHAN', ' DINGHAI', ' DING HAI', ' ZHOUSAN']"
+9,China,YANGZHOU,CNYZH,945,654,786,47,Port,East China Sea,Central China,['YANG ZHOU']
+10,China,TIANJIN,CNTXG,868,409,428,225,Port,Bohai Sea,North China,"['TIAN JIN', ' XINGANG', ' XIN GANG', ' TIANG JIN']"
+11,China,JINZHOU ANCH,CNJNZ,863,192,292,5,Anchorage,Bohai Sea,North China,['-']
+12,Hong Kong,HONG KONG,HKHKG,833,766,753,202,Port,South China,South China,"['HONGKONG', ' CN HKG', ' XIANGGANG', ' XIANG GANG']"
+13,Netherlands,AMSTERDAM,NLAMS,767,179,228,131,Port,North Sea,UK Coast & Atlantic,['NLAMS']
+14,China,LANSHAN,CNLSN,731,472,641,80,Port,Yellow Sea,North China,"['LAN SHAN', ' LANQIAO']"
+15,China,JINGJIANG,CNTSI,716,679,843,62,Port,East China Sea,Central China,"['JING JIANG', ' JIN JIANG']"
+16,Belgium,ANTWERP,BEANR,686,211,247,187,Port,Antwerp Area,UK Coast & Atlantic,"['ANTWERPEN', ' BEANT', ' ANVERS', ' BEAAA']"
+17,China,QUANZHOU,CNQZJ,662,204,129,71,Port,East China Sea,South China,"['QUAN ZHOU', ' SHIHU']"
+18,China,GUANGZHOU,CNGZG,638,234,296,132,Port,South China,South China,"['GUANG ZHOU', ' NEIGANG', ' SHIGANGAO']"
+19,China,HUANGHUA ANCH,CNHUH,602,344,399,1,Anchorage,Bohai Sea,North China,['-']
+20,China,FANGCHENG,CNFAN,562,259,336,81,Port,South China,South China,"['FANG CHENG', ' FANG CHEN']"
+21,China,ZHANJIANG,CNZHA,550,45,83,105,Port,South China,South China,['ZHAN JIANG']
+22,China,NINGBO,CNNBG,534,480,576,366,Port,East China Sea,Central China,"['BEILUN', ' ZHENHAI', ' DA XIE', ' CNNBO']"
+23,Singapore,SINGAPORE ANCH,SGSIN,516,1271,1224,71,Anchorage,Singapore Area,Indonesia,"['ASPLU', ' SELAT PAUH ANCH', ' AEPB', ' PEBGC']"
+24,USA,FORT LAUDERDALE,USFLL,491,21,41,5,Port,US East Coast,US East Coast,"['FT LAUDERDALE', ' LAUDERDALE', ' FTLAUDERDALE']"
+25,Turkey,ISTANBUL,TRIST,486,455,496,73,Canal,Marmara Sea,Black Sea,"['BOSPORUS', ' BOSPHORUS', ' TURKEY']"
+26,China,XIAMEN,CNXMG,465,162,164,123,Port,East China Sea,South China,"['XIA MEN', ' XIA MEM', ' CN XMN', ' CNXMN']"
+27,China,CAOFEIDIAN,CNCFD,460,339,323,235,Port,Bohai Sea,North China,"['CAO FEI DIAN', ' CAOFEDIAN', ' C F D']"
+28,Korea,BUSAN,KRPUS,438,362,351,252,Port,North China,North China,"['PUSAN', ' PUNSAN', ' KR BUS', ' BUZAN']"
+29,China,LIANYUNGANG,CNLYG,416,84,187,127,Port,Yellow Sea,North China,['LIAN YUN GANG']
+30,USA,SEATTLE,USSEA,407,158,170,31,Port,US West Coast,US West Coast,['-']
+31,China,SHIDAO,CNSHD,403,349,400,35,Port,Yellow Sea,North China,['SHI DAO']
+32,Korea,INCHEON,KRINC,391,149,204,121,Port,Yellow Sea,North China,['INCHON']
+33,Germany,HAMBURG,DEHAM,389,69,83,72,Port,Elbe River,UK Coast & Atlantic,['DEHBU']
+34,China,QINGDAO,CNQDG,387,202,212,290,Port,Yellow Sea,North China,"['QING DAO', ' QIANWAN', ' CNTAO', ' CN TAO']"
+35,Taiwan,KAOHSIUNG,TWKHH,372,112,113,116,Port,South China,South China,"['KAO HSIUNG', ' TWKSG', ' KAO', ' KHH']"
+36,USA,HOUSTON,USHOU,369,90,103,143,Port,Gulf of Mexico,Gulf of Mexico,['BAYTOWN']
+37,USA,SAN DIEGO,USSAN,369,53,69,25,Port,US West Coast,US West Coast,"['SANDIEGO', ' MARINA CORTEZ', ' HARBOR ISLAND WEST', ' SUNROAD RESORT']"
+38,China,CHANGZHOU,CNCZX,364,319,403,52,Port,East China Sea,Central China,['CHANG ZHOU']
+39,USA,NEW YORK,USNYC,351,150,158,97,Port,Hudson River,US East Coast,"['BAYONNE USA', ' USNWK', ' NEWARK', ' USEWR']"
+40,USA,NEW ORLEANS,USMSY,351,70,87,86,Port,Gulf of Mexico,Gulf of Mexico,"['NEWORLEANS', ' NOLA', ' NEW ORLEAN', ' GRAND ISLE']"
+41,China,XINHUI,CNXIN,340,73,154,40,Port,South China,South China,['CIVET']
+42,China,MINHANG,CNMNG,332,197,256,24,Port,East China Sea,Central China,['MIN HANG']
+43,China,ZHENJIANG,CNZHE,321,926,952,119,Port,East China Sea,Central China,"['ZHEN JIANG', ' ZHENG JIANG', ' ZHEN JIAN']"
+44,China,TAIZHOU,CNTZO,319,45,92,160,Port,East China Sea,Central China,"['TAI ZHOU', ' TAIZHUO', ' JIAOJIANG']"
+45,China,TAICANG,CNTAG,312,496,501,147,Port,East China Sea,Central China,"['TAI CANG', ' TAICANGGANG']"
+46,Korea,ULSAN,KRUSN,303,298,312,142,Port,North China,North China,['-']
+47,China,LAIZHOU BAY,CNLAI,300,75,103,4,Anchorage,Bohai Sea,North China,['-']
+48,Korea,YEOSU,KRYOS,284,311,353,161,Port,East China Sea,North China,['YOSU']
+49,China,TIANJIN ANCH,CNTXG,283,326,408,3,Anchorage,Bohai Sea,North China,['-']
+50,China,PINGTAN,CNFZG,278,31,34,16,Port,East China Sea,South China,['PINGTAN ISLAND']
+51,Spain,PALMA DE MALLORCA,ESPMI,276,73,76,15,Port,Balearic Sea,West Mediterranean,"['PALMA', ' MALLORCA']"
+52,China,YANTAI,CNYTG,271,323,325,114,Port,Bohai Sea,North China,"['YAN TAI', ' CN YNT']"
+53,China,ZHONGSHAN,CNZSN,271,146,181,33,Port,South China,South China,['ZHONG SHAN']
+54,China,DALIAN,CNDLC,266,197,208,188,Port,Yellow Sea,North China,"['CN DAG', ' DA LIAN']"
+55,China,RIZHAO,CNRZH,265,296,320,110,Port,Yellow Sea,North China,['RI ZHAO']
+56,China,QINZHOU,CNQZH,262,110,98,77,Port,South China,South China,['QIN ZHOU']
+57,Netherlands,ROTTERDAM WAALHAVEN,NLWAL,260,148,184,6,Port,Rotterdam Area,UK Coast & Atlantic,"['HEIJPLAAT', ' WAALHAVEN']"
+58,China,QINHUANGDAO,CNSHP,255,209,184,101,Port,Bohai Sea,North China,"['QIN HUANG DAO ', ' QIN HUANG', ' Q H D']"
+59,China,LONGKOU,CNLKU,255,432,493,55,Port,Bohai Sea,North China,['LONG KOU']
+60,United Arab Emirates,DUBAI,AEDXB,247,35,56,25,Port,Dubai Area,Arabian Gulf,"['PORTRASHID', ' PORT RASHID', ' DMC']"
+61,China,NINGBO ANCH,CNNBG,243,160,208,0,Anchorage,East China Sea,Central China,['-']
+62,China,HUANGHUA,CNHUH,231,95,114,97,Port,Bohai Sea,North China,"['HUANG HUA', ' CNHNH']"
+63,China,DONG GUAN,CNDGG,231,84,102,94,Port,South China,South China,"['DONGGUAN', ' SHA TIAN', ' DONGWAN']"
+64,China,NANTONG ANCH,CNNTG,229,214,206,2,Anchorage,East China Sea,Central China,['-']
+65,China,WENZHOU ANCH,CNWNZ,228,98,105,1,Anchorage,East China Sea,Central China,['-']
+66,China,HUIZHOU,CNHUI,226,72,86,104,Port,South China,South China,['HUI ZHOU']
+67,Netherlands,ENKHUIZEN,NLENK,221,188,196,2,Port,North Sea,UK Coast & Atlantic,['-']
+68,Vietnam,HAI PHONG,VNHPH,215,78,103,70,Port,South-East Asia,South-East Asia,['HAIPHONG']
+69,Canada,VANCOUVER,CAVAN,211,70,88,71,Port,West Coast Canada,West Coast Canada,"['VANCOUVER BC', ' VANCOUVER CANADA']"
+70,China,MAJISHAN,CNMJS,206,197,227,22,Port,East China Sea,Central China,"['MAJI SHAN', ' MA JI SHAN']"
+71,Russia,ST PETERSBURG,RULED,201,43,41,63,Port,Finland Gulf,"Inland, Russia","['SANKT PETERSBURG', ' SAINT PETERSBURG', ' SANKT PETERBURG', ' SPB']"
+72,Netherlands,HARLINGEN,NLHAR,200,83,129,34,Port,North Sea,UK Coast & Atlantic,['WADDENZEE']
+73,USA,MIAMI,USMIA,200,66,65,14,Port,US East Coast,US East Coast,['-']
+74,Romania,CONSTANTA,ROCND,198,30,18,78,Port,Black Sea,Black Sea,"['CONSTANZA', ' KONSTANTA', ' KONSTANZA', ' CONSTANTZA']"
+75,China,YANGPU,CNYPG,197,75,76,56,Port,South China,South China,"['YANG PU', ' YANPU']"
+76,China,ZHAPU,CNZAP,191,143,142,125,Port,East China Sea,Central China,"['ZHA PU', ' HAIYAN', ' HAI YAN', ' JIAXING']"
+77,Indonesia,BATU AMPAR,IDBUR,187,128,124,40,Port,Singapore Area,Indonesia,"['BATAM', ' BATUAMPAR', ' SEKUPANG']"
+78,Indonesia,JAKARTA,IDJKT,186,95,116,81,Port,Java Sea,Indonesia,"['PRIOK', ' TANJUNG PRIOK', ' ID TPP', ' TG PRIOK']"
+79,China,NANSHA,CNNSA,181,280,281,99,Port,South China,South China,['NAN SHA']
+80,Netherlands,ROTTERDAM,NLRTM,179,199,193,336,Port,Rotterdam Area,UK Coast & Atlantic,"['MAASDIJK', ' EUROPOORT', ' RDAM', ' DINTELHAVEN']"
+81,USA,ANACORTES,USOTS,179,75,90,6,Port,West Coast Canada,West Coast Canada,['-']
+82,Korea,MOKPO,KRMOK,177,102,94,51,Port,Yellow Sea,North China,['-']
+83,Belgium,GHENT,BEGNE,176,86,74,42,Port,Antwerp Area,UK Coast & Atlantic,"['GENT', ' BEGGG']"
+84,USA,NORFOLK,USORF,175,28,37,40,Port,US East Coast,US East Coast,['-']
+85,Spain,VALENCIA,ESVLC,173,40,41,30,Port,Balearic Sea,West Mediterranean,['-']
+86,China,FULING,CNFLG,173,15,45,14,Port,"Inland, China","Inland, China",['-']
+87,China,CHANGSHU,CNCGU,171,282,296,47,Port,East China Sea,Central China,"['CHANG SHU', ' CHAMGSHU']"
+88,Turkey,BODRUM,TRBXN,171,72,73,8,Port,Aegean Sea,East Mediterranean,['-']
+89,China,GAOGANG,CNGAO,171,123,118,3,Port,East China Sea,Central China,['-']
+90,Netherlands,DORDRECHT,NLDOR,170,86,100,10,Port,Rotterdam Area,UK Coast & Atlantic,"['DORDT', ' DORDRECT']"
+91,China,NINGDE ANCH,CNNDE,170,110,120,4,Anchorage,East China Sea,South China,['-']
+92,China,WEIHAI,CNWEI,169,134,179,35,Port,Yellow Sea,North China,['WEI HAI']
+93,Russia,VLADIVOSTOK,RUVVO,168,55,65,79,Port,CIS Pacific,CIS Pacific,"['VLDV', ' ZALIV VOSTOK', ' VVO']"
+94,United Kingdom,PLYMOUTH,GBPLY,168,40,72,9,Port,English Channel,UK Coast & Atlantic,['-']
+95,China,JINGTANG ANCH,CNTAS,167,96,103,3,Anchorage,Bohai Sea,North China,['-']
+96,Italy,GENOVA,ITGOA,165,55,44,42,Port,Ligurean Sea,West Mediterranean,['GENOA']
+97,Vietnam,HO CHI MINH,VNSGN,163,42,63,60,Port,South-East Asia,South-East Asia,"['SAIGON', ' CAT LAI', ' HIEP PHUOC']"
+98,Spain,BARCELONA,ESBCN,162,119,122,32,Port,Balearic Sea,West Mediterranean,"['BARCELLONA ', ' PORT BCN']"
+99,Indonesia,MUARA BERAU ANCH,IDMUB,162,59,61,6,Anchorage,Makassar Strait,Indonesia,['-']
+100,USA,FOURCHON,USFOC,160,58,86,68,Port,Gulf of Mexico,Gulf of Mexico,"['PORT FOURCHON', ' FOUCHON']"
+101,Malaysia,PORT KLANG,MYPKG,158,91,106,143,Port,Malacca Strait,Indonesia,"['KLANG', ' PKLANG', ' PORT KELANG']"
+102,China,LIUHENG,CNLHE,158,312,304,27,Port,East China Sea,Central China,['LIU HENG']
+103,China,TONGLING,CNTOL,158,43,74,25,Port,"Inland, China","Inland, China",['TONG LING']
+104,China,MEIZHOU ISLAND,CNQZJ,156,205,256,1,Port,East China Sea,South China,['-']
+105,Turkey,ISTANBUL ANCH,TRIST,154,169,164,1,Anchorage,Marmara Sea,Black Sea,['-']
+106,China,NANSHA ANCH,CNNSA,151,234,223,16,Anchorage,South China,South China,['-']
+107,Netherlands,ROTTERDAM BOTLEK,NLBOT,150,160,172,11,Port,Rotterdam Area,UK Coast & Atlantic,"['BOTLEK', ' E PETROLEUMHAV']"
+108,Turkey,GOCEK,TRGCK,150,37,63,9,Port,East Mediterranean,East Mediterranean,['-']
+109,China,LANSHAN ANCH,CNLSN,150,300,309,1,Anchorage,Yellow Sea,North China,['-']
+110,Spain,LAS PALMAS,ESLPA,149,66,78,114,Port,West Africa,West Africa,"['LASPALMAS', ' LA LUZ', ' PUERTO DE LA LUZ']"
+111,China,LIANYUNGANG ANCH,CNLYG,149,116,102,4,Anchorage,Yellow Sea,North China,['-']
+112,Taiwan,TAICHUNG,TWTXG,148,112,70,67,Port,East China Sea,South China,['TAI CHUNG']
+113,China,ZHANGZHOU,CNZZU,148,80,84,38,Port,East China Sea,South China,['ZHANG ZHOU']
+114,Turkey,TUZLA,TRTUZ,148,53,59,14,Port,Marmara Sea,Black Sea,['-']
+115,India,MUMBAI ANCH,INBOM,148,88,82,3,Anchorage,West Coast India,West Coast India,['-']
+116,USA,MARINA DEL REY,USMDX,146,39,57,1,Port,US West Coast,US West Coast,['-']
+117,Netherlands,ROTTERDAM CENTRUM,NLRTM,146,165,152,1,Port,Rotterdam Area,UK Coast & Atlantic,['-']
+118,Poland,GDANSK,PLGDN,145,75,92,36,Port,Baltic Sea,Baltic Sea,['-']
+119,Germany,ROSTOCK,DERSK,145,66,81,17,Port,Baltic Sea,Baltic Sea,"['ROSTOK', ' WARNEMUNDE', ' WARNEMUENDE']"
+120,China,HUANGPU,CNHUA,144,193,207,29,Port,South China,South China,"['HUANG PU', ' MACHONG']"
+121,Sweden,STOCKHOLM,SESTO,144,98,100,6,Port,Baltic Sea,Baltic Sea,['-']
+122,USA,NEWPORT,USNOZ,144,104,104,4,Port,US East Coast,US East Coast,['NEWPORT RI']
+123,Russia,MURMANSK,RUMMK,143,44,52,55,Port,Barents Sea,North Coast CIS,['-']
+124,Germany,BREMERHAVEN,DEBRV,142,80,80,35,Port,Elbe River,UK Coast & Atlantic,['BREMERHAFEN']
+125,China,JIANGYIN ANCH,CNJGY,141,122,108,0,Anchorage,East China Sea,Central China,['-']
+126,United Arab Emirates,FUJAIRAH ANCH,AEFJR,140,166,157,4,Anchorage,Oman Gulf,Arabian Gulf,['-']
+127,China,TAICANG ANCH,CNTAG,140,135,136,1,Anchorage,East China Sea,Central China,['-']
+128,China,QINHUANGDAO ANCH,CNSHP,140,108,121,0,Anchorage,Bohai Sea,North China,['-']
+129,China,BEIHAI,CNBHY,139,48,67,31,Port,South China,South China,"['BEI HAI', ' QIAO']"
+130,Australia,SYDNEY,AUSYD,139,303,306,27,Port,Coral Sea,East Australia,['-']
+131,USA,NEWPORT BEACH,USJNP,138,29,53,1,Port,US West Coast,US West Coast,['-']
+132,USA,CHARLESTON,USCHS,137,29,26,26,Port,US East Coast,US East Coast,['-']
+133,Denmark,COPENHAGEN,DKCPH,137,43,53,7,Port,Kattegat,Baltic Sea,"['KOBENHAVN', ' KOEBENHAVN']"
+134,Indonesia,TABONEO ANCH,IDTAB,133,72,69,33,Anchorage,Java Sea,Indonesia,['TABONEO']
+135,United Kingdom,GOSPORT,GBGOS,133,82,107,0,Port,English Channel,UK Coast & Atlantic,['-']
+136,Netherlands,DEN HELDER,NLDHR,132,42,61,14,Port,North Sea,UK Coast & Atlantic,['DENHELDER']
+137,China,RIZHAO ANCH,CNRZH,130,332,326,1,Anchorage,Yellow Sea,North China,['-']
+138,Netherlands,LELYSTAD,NLLEY,129,114,121,5,Port,North Sea,UK Coast & Atlantic,['-']
+139,France,LA ROCHELLE VIEUX,FRLRH,129,32,77,0,Port,Biscay Bay,UK Coast & Atlantic,['-']
+140,Japan,YOKOHAMA,JPYOK,128,204,234,113,Port,Japan Coast,Japan Coast,"['NEGISHI', ' YKHAMA']"
+141,Malta,VALLETTA,MTMLA,128,61,67,30,Port,West Mediterranean,West Mediterranean,"['VALETTA', ' VALLETA', ' VLT']"
+142,Netherlands,ROTTERDAM MAASVLAKTE,NLMSV,128,171,161,4,Port,Rotterdam Area,UK Coast & Atlantic,"['MAASVLAKTE', ' EUROPAHAVEN']"
+143,China,QUANZHOU ANCH,CNQZJ,128,108,105,2,Anchorage,East China Sea,South China,['-']
+144,Brazil,RIO DE JANEIRO,BRRIO,127,38,43,39,Port,East Coast South America,East Coast South America,"['RIODEJANEIRO', ' RIO DE JAN', ' RIO JANEIRO', ' RIO']"
+145,China,CHONGQING,CNCQI,126,25,31,80,Port,"Inland, China","Inland, China",['-']
+146,Italy,LA SPEZIA,ITSPE,124,22,30,16,Port,Ligurean Sea,West Mediterranean,['LASPEZIA']
+147,Japan,NAGOYA,JPNGO,122,115,114,105,Port,Japan Coast,Japan Coast,['-']
+148,Netherlands,IJMUIDEN,NLIJM,122,120,114,27,Port,North Sea,UK Coast & Atlantic,['IJM NL']
+149,China,HUANGPU ANCH,CNHUA,121,95,92,3,Anchorage,South China,South China,['-']
+150,China,ZHUJIAN KOU ANCH,CNSHK,120,193,194,13,Anchorage,South China,South China,['-']
+151,Brazil,SANTOS,BRSSZ,119,29,28,147,Port,East Coast South America,East Coast South America,['BACIA DE SANTOS']
+152,China,WENZHOU,CNWNZ,119,54,41,73,Port,East China Sea,Central China,"['WEN ZHOU', ' YUHUAN']"
+153,USA,LOS ANGELES,USLAX,119,92,105,47,Port,US West Coast,US West Coast,"['LOSANGELES', ' SAN PEDRO']"
+154,China,HUMEN,CNHMN,119,102,102,14,Port,South China,South China,['HU MEN']
+155,France,ANTIBES,FRANT,119,18,21,6,Port,Ligurean Sea,West Mediterranean,['-']
+156,Thailand,BANGKOK,THBKK,118,47,41,33,Port,Gulf of Thailand,South-East Asia,"['BANGKONG', ' THAILAND', ' BKK']"
+157,Germany,KIEL,DEKEL,118,60,89,15,Port,Kiel Canal,Baltic Sea,['-']
+158,China,ZHOUSHAN ANCH,CNZOS,118,150,147,5,Anchorage,East China Sea,Central China,"['BEILUN ANCH', ' ZHENHAI ANCH', ' NINGBO ANCH', ' JINTANG ANCH']"
+159,China,LONGHAI,CNLGI,118,34,5,2,Port,East China Sea,South China,['LONG HAI']
+160,Philippines,MANILA ANCH,PHMNL,117,41,70,11,Anchorage,Philippines,Philippines,['-']
+161,United Kingdom,SOUTHAMPTON,GBSOU,116,126,119,30,Port,English Channel,UK Coast & Atlantic,['MARCHWOOD']
+162,Indonesia,BANJARMASIN,IDBDJ,116,35,67,25,Port,Java Sea,Indonesia,['BANJAR']
+163,Malta,MARSAMXETT,MTMSX,115,31,31,0,Port,West Mediterranean,West Mediterranean,['-']
+164,Russia,NOVOROSSIYSK,RUNVS,114,56,56,45,Port,Black Sea,Black Sea,"['NOVO', ' NOVOROSIYSK', ' NOVOROSSYISK', ' NVRSK']"
+165,United Arab Emirates,FUJAIRAH,AEFJR,113,127,129,200,Port,Oman Gulf,Arabian Gulf,"['AL FUJAIRAH', ' FUJAIRA']"
+166,China,JINZHOU,CNJNZ,113,193,114,47,Port,Bohai Sea,North China,['JIN ZHOU']
+167,China,WEIFANG,CNWEF,113,37,38,39,Port,Bohai Sea,North China,['WEI FANG']
+168,China,YIZHENG,CNYIZ,113,77,106,9,Port,East China Sea,Central China,['YI ZHENG']
+169,Greece,FLISVOS,GRPIR,113,13,35,3,Marina,Piraeus Area,East Mediterranean,['-']
+170,Turkey,YALOVA,TRYAL,112,107,105,10,Port,Marmara Sea,Black Sea,['-']
+171,Argentina,BUENOS AIRES,ARBUE,111,37,33,10,Port,East Coast South America,East Coast South America,"['ZONA COMUN', ' DOCK SUD']"
+172,United Arab Emirates,MUSAFFAH,AEAMF,111,30,20,10,Port,Persian Gulf,Arabian Gulf,"['MUSAFAH', ' MUSSAFAH', ' MUSSAFFAH', ' ESNAAD']"
+173,Netherlands,MAKKUM,NLMAK,111,26,69,0,Port,North Sea,UK Coast & Atlantic,['-']
+174,Netherlands,BRUINISSE,NLBSE,110,89,89,5,Port,North Sea,UK Coast & Atlantic,['-']
+175,Korea,PYEONGTAEK,KRPTK,109,28,30,77,Port,Yellow Sea,North China,"['PYONGTAEK', ' PYEONG TAEK', ' DANGJIN']"
+176,Vietnam,VUNG TAU,VNVUT,109,98,125,63,Port,South-East Asia,South-East Asia,['VUNGTAU']
+177,China,ZHUHAI,CNZUH,109,104,108,62,Port,South China,South China,['ZHU HAI']
+178,Australia,DARWIN,AUDRW,109,22,16,25,Port,Timor Sea,North Australia,['-']
+179,China,CAOFEIDIAN ANCH,CNCFD,108,126,127,2,Anchorage,Bohai Sea,North China,['-']
+180,France,LE HAVRE,FRLEH,107,69,79,39,Port,English Channel,UK Coast & Atlantic,['LEHAVRE']
+181,Poland,SZCZECIN,PLSZZ,107,18,24,17,Port,Baltic Sea,Baltic Sea,['STETTIN']
+182,Norway,OSLO,NOOSL,107,73,81,13,Port,Skagerrak,Norwegian Coast,['-']
+183,USA,GALVESTON,USGLS,106,123,130,24,Port,Gulf of Mexico,Gulf of Mexico,['-']
+184,Germany,CUXHAVEN,DECUX,105,45,55,15,Port,Elbe River,UK Coast & Atlantic,"['CUXHAFEN', ' CUX']"
+185,Indonesia,JAKARTA ANCH,IDJKT,105,52,71,0,Anchorage,Java Sea,Indonesia,['-']
+186,South Africa,CAPE TOWN,ZACPT,104,56,58,43,Port,South Africa,South Africa,['CAPETOWN']
+187,USA,SHILSHOLE,-,104,31,41,0,Port,US West Coast,US West Coast,['SHILSHOLE BAY']
+188,Sweden,GOTEBORG,SEGOT,103,52,63,25,Port,Kattegat,Baltic Sea,"['GOTHENBURG', ' GOTENBURG', ' GOETEBORG', ' GBG']"
+189,Germany,BERLIN,DEBER,103,18,20,13,Port,"Inland, Europe","Inland, Europe",['-']
+190,Turkey,FETHIYE,TRFET,103,58,60,1,Port,East Mediterranean,East Mediterranean,['-']
+191,Poland,GDYNIA,PLGDY,102,54,48,26,Port,Baltic Sea,Baltic Sea,['-']
+192,China,YANTAI ANCH,CNYTG,102,264,266,3,Anchorage,Bohai Sea,North China,['-']
+193,Russia,KAVKAZ SOUTH ANCH,RUKZP,101,48,56,6,Anchorage,Azov Sea,Black Sea,['-']
+194,China,BAYUQUAN,CNBAY,100,120,87,92,Port,Bohai Sea,North China,"['BAYU QUAN', ' BA YU QUAN', ' BYQ', ' B Y Q']"
+195,Bahrain,SITRAH,BHSIT,100,44,41,6,Port,Persian Gulf,Arabian Gulf,['SITRA']
+196,China,XINSHA,CNXNA,99,66,70,18,Port,South China,South China,['XIN SHA']
+197,Germany,DUISBURG,DEDUI,98,63,78,17,Port,"Inland, Europe","Inland, Europe",['-']
+198,United Kingdom,LYMINGTON,GBLYM,98,72,76,0,Port,English Channel,UK Coast & Atlantic,['-']
+199,Netherlands,LEMMER,NLLMR,97,81,83,2,Port,North Sea,UK Coast & Atlantic,['-']
+200,Australia,BRISBANE,AUBNE,96,18,24,53,Port,Coral Sea,East Australia,['-']
+201,China,SHEKOU,CNSHK,96,159,156,47,Port,South China,South China,"['SHE KOU', ' CNSKU']"
+202,France,BREST,FRBES,96,38,66,6,Port,Biscay Bay,UK Coast & Atlantic,['-']
+203,China,HONGWAN,CNHGW,96,31,47,3,Port,South China,South China,['HONG WAN']
+204,Belgium,ZEEBRUGGE,BEZEE,95,41,45,36,Port,North Sea,UK Coast & Atlantic,['-']
+205,Portugal,LISBOA,PTLIS,95,158,173,20,Port,UK Coast & Atlantic,UK Coast & Atlantic,['LISBON']
+206,United Kingdom,MERCURY,,94,24,62,0,Marina,English Channel,UK Coast & Atlantic,"['SOUTHAMPTON', ' HAMPSHI']"
+207,Hungary,BUDAPEST,HUBUD,93,17,21,38,Port,"Inland, Europe","Inland, Europe",['-']
+208,Spain,VIGO,ESVGO,93,65,75,31,Port,UK Coast & Atlantic,UK Coast & Atlantic,['-']
+209,USA,BOSTON,USBOS,93,67,72,11,Port,US East Coast,US East Coast,['-']
+210,Macao,MACAU,MOMFM,93,48,46,5,Port,South China,South China,['HK-MACAU']
+211,China,DALIAN ANCH,CNDLC,93,123,123,4,Anchorage,Yellow Sea,North China,['-']
+212,China,BAYUQUAN ANCH,CNBAY,93,61,108,2,Anchorage,Bohai Sea,North China,['-']
+213,Colombia,CARTAGENA,COCTG,92,126,136,33,Port,North Coast South America,North Coast South America,"['MAMONAL', ' CARTAGENA COLOMBIA']"
+214,Saudi Arabia,DAMMAM,SADMM,92,35,39,21,Port,Persian Gulf,Arabian Gulf,['AD DAMMAM']
+215,USA,PORTLAND OR,USPDX,92,45,64,17,Port,US West Coast,US West Coast,"['PORTLAND', ' LINNTON']"
+216,United Kingdom,LONDON,GBLON,92,112,110,11,Port,North Sea,UK Coast & Atlantic,['-']
+217,Monaco,MONACO,MCMON,92,42,50,9,Port,Ligurean Sea,West Mediterranean,['PORT HERCULE']
+218,China,QUSHAN,,92,121,120,7,Port,East China Sea,Central China,['QUSHAN ISLAND']
+219,Belgium,NIEUWPOORT,BENIE,92,36,45,2,Port,English Channel,UK Coast & Atlantic,['-']
+220,Netherlands,HELLEVOETSLUIS,NLHSL,92,34,56,0,Port,Rotterdam Area,UK Coast & Atlantic,['-']
+221,Russia,ASTRAKHAN,RUASF,91,3,15,24,Port,Caspian Sea,Caspian Sea,"['ASTRAHAN', ' ASTRAXAN']"
+222,USA,TACOMA,USTIW,91,30,39,17,Port,US West Coast,US West Coast,['-']
+223,Netherlands,MEDEMBLIK,NLMDM,91,74,63,1,Port,North Sea,UK Coast & Atlantic,['-']
+224,Australia,CORAL SEA MARINA,AUALP,91,44,39,0,Marina,East Australia,East Australia,['-']
+225,Gibraltar,GIBRALTAR,GIGIB,90,79,89,100,Port,Gibraltar,West Mediterranean,['-']
+226,Senegal,DAKAR,SNDKR,90,12,20,39,Port,West Africa,West Africa,['-']
+227,Korea,GWANGYANG,KRKAN,89,78,80,76,Port,East China Sea,North China,"['KWANGYANG', ' KRKWA']"
+228,Uruguay,MONTEVIDEO,UYMVD,89,10,11,22,Port,East Coast South America,East Coast South America,['PUERTO DE MONTEVIDEO']
+229,Belgium,OOSTENDE,BEOST,89,41,56,11,Port,English Channel,UK Coast & Atlantic,"['OSTEND', ' OSTENDE']"
+230,China,DONGYING,CNDGY,88,73,83,113,Port,Bohai Sea,North China,"['DONG YING', ' DONGYINY']"
+231,France,MARSEILLE,FRMRS,88,72,91,11,Port,West Mediterranean,West Mediterranean,['-']
+232,Argentina,MAR DEL PLATA,ARMDQ,88,4,12,10,Port,East Coast South America,East Coast South America,['PTO MAR DEL PLATA']
+233,Spain,DENIA,ESDNA,88,17,11,9,Port,Balearic Sea,West Mediterranean,['-']
+234,India,MUMBAI,INBOM,87,75,74,64,Port,West Coast India,West Coast India,['BOMBAY']
+235,Mauritius,PORT LOUIS,MUPLU,87,23,27,32,Port,East Africa,East Africa,['-']
+236,Korea,POHANG,KRKPO,87,69,70,30,Port,North China,North China,['KR POHANG']
+237,Ukraine,IZMAIL,UAIZM,87,18,17,19,Port,Black Sea,Black Sea,['-']
+238,Bahrain,MUHARRAQ,BHGBQ,87,8,6,1,Port,Persian Gulf,Arabian Gulf,['AL MUHARRAQ']
+239,China,LUOYUAN,CNLYA,86,30,35,19,Port,East China Sea,South China,['LUO YUAN']
+240,China,CHENJIAGANG,CNCIG,86,29,23,12,Port,Yellow Sea,North China,['GUAN HE']
+241,United Kingdom,FALMOUTH,GBFAL,86,39,54,5,Port,Celtic Sea,UK Coast & Atlantic,['NORTH END SHIPYARD']
+242,China,SANYA,CNSYX,86,0,5,3,Port,South China,South China,['SAN YA']
+243,China,SANSHAN,CNNHS,86,48,41,1,Port,East China Sea,"Inland, China",['-']
+244,Japan,TOKYO,JPTYO,85,73,88,89,Port,Japan Coast,Japan Coast,['JAPAN']
+245,Spain,CADIZ,ESCAD,85,139,133,11,Port,Gibraltar,UK Coast & Atlantic,['-']
+246,USA,PALM BEACH,USPAB,85,15,16,4,Port,US East Coast,US East Coast,['-']
+247,USA,LONG BEACH,USLGB,84,133,147,62,Port,US West Coast,US West Coast,['LONGBEACH']
+248,Japan,KOBE,JPUKB,84,128,119,59,Port,Japan Coast,Japan Coast,['-']
+249,Qatar,RAS LAFFAN,QARLF,84,45,48,40,Port,Persian Gulf,Arabian Gulf,"['AD-DAHIRAH', ' RASLAFFAN', ' RAS LAFAN']"
+250,USA,BALTIMORE,USBAL,84,44,45,30,Port,US East Coast,US East Coast,['-']
+251,Spain,CARTAGENA,ESCAR,84,36,35,24,Port,West Mediterranean,West Mediterranean,"['ESCOMBRERAS', ' ESESC']"
+252,China,SONGMEN,CNSMN,84,24,32,11,Port,East China Sea,Central China,['-']
+253,USA,LAKE CHARLES,USLCH,83,48,48,11,Port,Gulf of Mexico,Gulf of Mexico,['-']
+254,United Kingdom,HAMBLE POINT,GBHAM,83,51,78,0,Marina,English Channel,UK Coast & Atlantic,"['SOUTHAMPTON', ' HAMPSHI']"
+255,Brazil,SANTOS ANCH,BRSSZ,83,23,22,0,Anchorage,East Coast South America,East Coast South America,['-']
+256,China,JINGTANG,CNTGS,82,57,61,75,Port,Bohai Sea,North China,"['TANGSHAN', ' JING TANG', ' JIN TANG', ' CNTAS']"
+257,Netherlands,TERNEUZEN,NLTNZ,82,158,148,29,Port,Antwerp Area,UK Coast & Atlantic,['-']
+258,Germany,HEILIGENHAFEN,DEHHF,82,26,32,2,Port,Baltic Sea,Baltic Sea,['-']
+259,United Arab Emirates,SHARJAH ANCH,AESHJ,82,59,52,2,Anchorage,Dubai Area,Arabian Gulf,['-']
+260,Belgium,ANTWERP ANCH,BEANR,82,52,38,0,Anchorage,North Sea,UK Coast & Atlantic,['-']
+261,Australia,MANLY HARBOUR,AUWGZ,82,6,22,0,Marina,Coral Sea,East Australia,['MANLY BRISBANE']
+262,China,XIAMEN ANCH,CNXMG,82,59,77,0,Anchorage,East China Sea,South China,['-']
+263,Norway,BERGEN,NOBGO,81,66,70,19,Port,North Sea,Norwegian Coast,['DAMSGARD']
+264,Norway,TROMSO,NOTOS,81,38,55,10,Port,Norwegian Coast,Norwegian Coast,['TROMSE']
+265,China,DONGJIAKOU,CNDJK,80,94,100,50,Port,Yellow Sea,North China,['DONGJIA KOU']
+266,Finland,HELSINKI,FIHEL,80,101,123,13,Port,Finland Gulf,Baltic Sea,['-']
+267,Egypt,SUEZ CANAL,EGSUZ,79,30,75,409,Canal,East Mediterranean,East Mediterranean,"['SUEZ', ' EGSZC', ' EGSUC', ' EGSCN']"
+268,Indonesia,PALEMBANG,IDPLM,79,31,26,30,Port,Java Sea,Indonesia,['PLAJU']
+269,China,HUIZHOU ANCH,CNHUI,79,60,57,8,Anchorage,South China,South China,['-']
+270,France,SAINT TROPEZ,FRSTP,79,54,86,6,Marina,Ligurean Sea,West Mediterranean,['ST TROPEZ']
+271,USA,BELLINGHAM,USBLI,79,29,37,5,Port,West Coast Canada,West Coast Canada,['-']
+272,Thailand,SRIRACHA ANCH,THSRI,79,36,32,3,Anchorage,Gulf of Thailand,South-East Asia,['-']
+273,Greece,PIRAEUS,GRPIR,78,117,122,66,Port,Piraeus Area,East Mediterranean,"['PIRAEVS', ' PIREAS', ' KERATSINI', ' ATHENS']"
+274,China,JIMIYA,CNJIM,78,166,162,3,Port,Yellow Sea,North China,['JI MI YA']
+275,China,FANGCHENG ANCH,CNFAN,78,110,120,2,Anchorage,South China,South China,['-']
+276,Thailand,LAEM CHABANG,THLCH,77,54,57,56,Port,Gulf of Thailand,South-East Asia,"['LAEMCHABANG', ' LEAM CHABANG', ' LAC', ' LCB']"
+277,Netherlands,VLISSINGEN,NLVLI,77,40,49,46,Port,Antwerp Area,UK Coast & Atlantic,['FLUSHING']
+278,Germany,BREMEN,DEBRE,77,22,24,17,Port,North Sea,"Inland, Europe",['-']
+279,France,PARIS,FRPAR,77,16,16,16,Port,"Inland, Europe","Inland, Europe",['-']
+280,Australia,PORT HEDLAND,AUPHE,76,59,72,95,Port,Timor Sea,West Australia,"['PORT HEADLAND', ' HEDLAND']"
+281,Australia,GLADSTONE,AUGLT,76,16,14,51,Port,Coral Sea,East Australia,['-']
+282,Panama,PANAMA ANCH PACIFIC,PAPPF,76,82,81,0,Anchorage,Panama Canal,West Coast Central America,['-']
+283,India,SIKKA,INSIK,75,6,4,24,Port,West Coast India,West Coast India,['-']
+284,China,XIUYU,CNXIU,75,16,20,22,Port,East China Sea,South China,"['XIU YU', ' MEI ZHOU WAN', ' MEIZHOUWAN', ' MEI ZHOU']"
+285,Netherlands,HOORN,NLHRN,75,58,41,1,Port,North Sea,UK Coast & Atlantic,['-']
+286,Bangladesh,CHITTAGONG ANCH,BDCGP,75,22,18,0,Anchorage,Bengal Bay,East Coast India,['-']
+287,Japan,OSAKA,JPOSA,74,93,109,63,Port,Japan Coast,Japan Coast,['SAKAI']
+288,Indonesia,SURABAYA,IDSUB,74,54,58,53,Port,Java Sea,Indonesia,['TANJUNG PERAK']
+289,Saudi Arabia,RAS TANURA,SARTA,74,25,16,38,Port,Persian Gulf,Arabian Gulf,"['RASTANURA', ' RASTANURAH', ' JUAYMAH']"
+290,Lithuania,KLAIPEDA,LTKLJ,74,37,37,25,Port,Baltic Sea,Baltic Sea,['-']
+291,South Africa,DURBAN,ZADUR,73,20,20,68,Port,South Africa,South Africa,['-']
+292,Nigeria,LAGOS,NGLOS,73,14,23,40,Port,Gulf of Guinea,West Africa,"['APAPA', ' NIGERIA', ' TINCAN', ' TIN CAN']"
+293,United Arab Emirates,SHARJAH,AESHJ,73,41,52,17,Port,Persian Gulf,Arabian Gulf,"['MINA KHALID', ' PORT KHALID', ' KHALID', ' AEMKH']"
+294,Turkey,CANAKKALE,TRCKZ,73,10,38,14,Canal,Aegean Sea,East Mediterranean,"['DARDANELLES', ' DARDANELES', ' DARDANELLE']"
+295,China,TAIXING,CNTAX,73,29,46,14,Port,East China Sea,Central China,['TAI XING']
+296,Norway,MYRE,NOMYR,73,18,13,5,Port,Norwegian Coast,Norwegian Coast,['-']
+297,Netherlands,STAVOREN,NLSTA,73,79,73,1,Port,North Sea,UK Coast & Atlantic,['-']
+298,China,NINGDE,CNNDE,72,34,36,86,Port,East China Sea,South China,"['NING DE', ' BAIMA']"
+299,China,SHENZHEN,CNSZX,72,166,198,55,Port,South China,South China,['SHEN ZHEN']
+300,India,HAZIRA,INHZR,72,67,71,27,Port,West Coast India,West Coast India,"['SURAT', ' GANDHAR']"
+301,Spain,IBIZA,ESIBZ,72,96,92,22,Port,Balearic Sea,West Mediterranean,['IBZ']
+302,Thailand,PHUKET,THHKT,72,29,25,2,Port,Andaman Sea,South-East Asia,['-']
+303,Spain,ALGECIRAS,ESALG,71,191,202,93,Port,Gibraltar,West Mediterranean,['-']
+304,Chile,PUERTO MONTT,CLPMC,71,21,22,15,Port,West South America,West South America,['PTO MONTT']
+305,Ukraine,RENI,UARNI,71,3,5,14,Port,"Inland, Europe","Inland, Europe",['-']
+306,USA,HONOLULU,USHNL,71,32,33,10,Port,Hawaii,North Pacific,['-']
+307,USA,EVERETT,USPAE,71,16,25,8,Port,US West Coast,US West Coast,['-']
+308,France,LORIENT,FRLRT,71,38,59,8,Port,Biscay Bay,UK Coast & Atlantic,['-']
+309,China,JINTANG,CNTGS,71,35,46,3,Port,East China Sea,Central China,['JINTANG ISLAND']
+310,Greece,ZEA,GRMAZ,71,8,14,2,Marina,Piraeus Area,East Mediterranean,"['ZEA MARINA', ' MARINA ZEAS']"
+311,Norway,STAVANGER,NOSVG,70,95,113,11,Port,North Sea,Norwegian Coast,['-']
+312,United Arab Emirates,ZAKUM,AEZUR,70,34,35,11,Port,Persian Gulf,Arabian Gulf,"['ZUKUM', ' ZAKUM FIELD', ' ZAKKUM']"
+313,USA,PORTLAND ME,USPWM,70,38,45,2,Port,US East Coast,US East Coast,['PORTLAND']
+314,United Arab Emirates,JEBEL ALI,AEJEA,69,64,60,75,Port,Persian Gulf,Arabian Gulf,"['JEBELALI', ' JEBAL ALI', ' JABAL ALI']"
+315,Italy,LIVORNO,ITLIV,69,28,28,37,Port,Ligurean Sea,West Mediterranean,['-']
+316,Argentina,RECALADA,ARRCA,69,18,12,37,Anchorage,East Coast South America,East Coast South America,['-']
+317,Saudi Arabia,DAMMAM ANCH,SADMM,69,31,36,0,Anchorage,Persian Gulf,Arabian Gulf,['-']
+318,USA,HOUSTON ANCH,USHOU,69,45,41,0,Anchorage,Gulf of Mexico,Gulf of Mexico,['-']
+319,Netherlands,MONNICKENDAM,NLMNN,69,29,43,0,Port,North Sea,UK Coast & Atlantic,['-']
+320,Canada,HALIFAX,CAHAL,68,18,19,39,Port,East Coast Canada,East Coast Canada,"['DARTMOUTH', ' DARTMOUTH CA']"
+321,China,LAIZHOU,CNLZO,68,150,160,25,Port,Bohai Sea,North China,['LAI ZHOU']
+322,Latvia,RIGA,LVRIX,68,29,26,23,Port,Baltic Sea,Baltic Sea,['-']
+323,Norway,BATSFJORD,NOBJF,68,17,15,6,Port,Norwegian Coast,Norwegian Coast,['-']
+324,Guernsey,GUERNSEY,GGGCI,68,24,31,1,Port,English Channel,UK Coast & Atlantic,"['-', ' SAINT PETER', ' ST PETER PORT']"
+325,China,CHANGSHU ANCH,CNCGU,68,154,154,0,Anchorage,East China Sea,Central China,['-']
+326,United Kingdom,COWES,GBCOW,68,152,106,0,Port,English Channel,UK Coast & Atlantic,['-']
+327,Jersey,ST HELIER,JESTH,67,28,28,7,Port,English Channel,UK Coast & Atlantic,['JERSEY']
+328,Peru,CALLAO ANCH,PEPERU,67,48,53,3,Anchorage,West South America,West South America,['-']
+329,Hong Kong,HONG KONG ANCH,HKHKG,67,117,112,3,Anchorage,South China,South China,['-']
+330,China,QINGDAO ANCH,CNQDG,67,120,91,2,Anchorage,Yellow Sea,North China,['-']
+331,Germany,NEUSTADT,DENDT,67,20,27,1,Port,Baltic Sea,Baltic Sea,['-']
+332,Saudi Arabia,JEDDAH,SAJED,66,37,37,53,Port,Red Sea,Red Sea,['RED SEA']
+333,Denmark,SKAGEN,DKSKA,66,28,44,37,Port,Kattegat,Baltic Sea,['SKAW']
+334,USA,OAKLAND,USOAK,66,36,44,19,Port,US West Coast,US West Coast,['-']
+335,Bulgaria,VARNA,BGVAR,66,6,7,15,Port,Black Sea,Black Sea,"['BELOSLAV FERRY', ' WARNA', ' EZEROVO', ' LESPORT']"
+336,Australia,FREMANTLE,AUFRE,66,58,59,12,Port,West Australia,West Australia,['-']
+337,Vietnam,NGHI SON,VNNGH,66,17,20,11,Port,South-East Asia,South-East Asia,"['THANH HOA', ' VN THO', ' THANH HAO']"
+338,Netherlands,LELYSTAD HAVEN,NLELE,66,34,45,4,Port,North Sea,UK Coast & Atlantic,['-']
+339,Netherlands,SNEEK,NLSNK,66,36,46,2,Port,North Sea,UK Coast & Atlantic,['-']
+340,USA,CHANNEL ISLANDS,-,66,18,24,0,Port,US West Coast,US West Coast,['-']
+341,China,HUANGGE,CNHGE,66,42,42,0,Port,South China,South China,['HUANG GE']
+342,Turkey,ISKENDERUN,TRISK,65,60,61,58,Port,East Mediterranean,East Mediterranean,"['ISDEMIR', ' AZGANLIK', ' SARISEKI']"
+343,Russia,MOSCOW,RUMOW,65,8,9,10,Port,"Inland, Russia","Inland, Russia",['MOSKVA']
+344,United Kingdom,GRIMSBY,GBGSY,65,36,61,6,Port,North Sea,UK Coast & Atlantic,['-']
+345,Netherlands,DEN OEVER,NLWRG,65,62,52,5,Port,North Sea,UK Coast & Atlantic,['-']
+346,Germany,NORD-OSTSEE-KANAL,DECKL,65,84,82,5,Canal,Kiel Canal,UK Coast & Atlantic,['KIEL CANAL']
+347,Australia,HOPE ISLAND,AUHPL,65,10,11,1,Port,Coral Sea,East Australia,['-']
+348,USA,GIG HARBOR,USGGZ,65,15,25,0,Marina,US West Coast,US West Coast,"['PENINSULA BASIN', ' SEATTLE AT GIG']"
+349,Bangladesh,CHITTAGONG,BDCGP,64,17,13,105,Port,Bengal Bay,East Coast India,['CHATTOGRAM']
+350,Panama,PANAMA CANAL,PAPCN,64,149,140,77,Canal,Panama Canal,West Coast Central America,"['PANAMA', ' PAN CANAL', ' BARRO CALORADO', ' MIRAFLORES']"
+351,Brazil,PARANAGUA,BRPNG,64,9,10,41,Port,East Coast South America,East Coast South America,['-']
+352,France,FOS SUR MER,FRFOS,64,27,35,23,Port,West Mediterranean,West Mediterranean,"['FRFZS', ' FOS FRANCE', ' FOS SUR MER FRANCE', ' FOS-SUR-MER']"
+353,China,QIDONG,CNQID,64,12,19,20,Port,East China Sea,Central China,['-']
+354,Malaysia,PENANG,MYPEN,64,48,52,16,Port,Malacca Strait,Indonesia,"['PRAI', ' BUTTERWORTH', ' PINANG', ' MYPRA']"
+355,United Arab Emirates,HAMRIYA,AEHAM,64,8,6,14,Port,Persian Gulf,Arabian Gulf,['AL HAMRIYA']
+356,Russia,PETROPAVLOVSK,RUPKC,64,15,11,10,Port,Bering Sea,CIS Pacific,"['KAMCHATSKY', ' AVACHA', ' KAMCHATSKIY']"
+357,United Arab Emirates,KHOR FAKKAN ANCH,AEKLF,64,62,55,2,Anchorage,Oman Gulf,Arabian Gulf,['-']
+358,Taiwan,KAOHSIUNG ANCH,TWKHH,64,36,32,0,Anchorage,South China,South China,['-']
+359,Korea,DAESAN,KRTSN,63,69,65,49,Port,Yellow Sea,North China,['SEOSAN']
+360,Spain,TARRAGONA,ESTAR,63,45,26,35,Port,Balearic Sea,West Mediterranean,['TARAGONA']
+361,Portugal,LEIXOES,PTLEI,63,66,55,28,Port,UK Coast & Atlantic,UK Coast & Atlantic,['MATOSINHOS']
+362,China,CHANGXINDAO,CNCXD,63,29,29,18,Port,Bohai Sea,North China,"['CHANG XIN DAO', ' CHANGXINGDAO', ' CHANG XING DAO']"
+363,USA,PORT ARTHUR,USPOA,63,47,49,16,Port,Gulf of Mexico,Gulf of Mexico,['-']
+364,USA,CHICAGO,USCHI,63,21,18,10,Port,Lake Michigan,Great Lakes,['-']
+365,Netherlands,DELFZIJL,NLDZL,63,26,23,9,Port,North Sea,UK Coast & Atlantic,['DELZIJL']
+366,Netherlands,SCHEVENINGEN,NLSCE,63,34,35,9,Port,Rotterdam Area,UK Coast & Atlantic,['SCHEVENING']
+367,China,ZHANJIANG ANCH,CNZHA,63,27,21,3,Anchorage,South China,South China,['-']
+368,Canada,FALSE CREEK,-,63,30,36,0,Marina,West Coast Canada,West Coast Canada,['-']
+369,Peru,CALLAO,PECLL,62,61,58,45,Port,West South America,West South America,['-']
+370,Australia,MELBOURNE,AUMEL,62,31,37,32,Port,Tasman Sea,East Australia,['-']
+371,India,MUNDRA,INMUN,62,38,40,31,Port,West Coast India,West Coast India,['-']
+372,Israel,HAIFA,ILHFA,62,26,20,20,Port,East Mediterranean,East Mediterranean,['-']
+373,France,ROUEN,FRURO,62,15,28,17,Port,"Inland, Europe","Inland, Europe",['-']
+374,China,XIANGSHAN,CNXSN,62,16,23,11,Port,East China Sea,Central China,['XIANG SHAN']
+375,Denmark,HIRTSHALS,DKHIR,62,24,46,10,Port,Kattegat,UK Coast & Atlantic,['-']
+376,Netherlands,ZAANDAM,NLZAA,62,33,33,4,Port,North Sea,UK Coast & Atlantic,['-']
+377,Iran,BANDAR ABBAS ANCH,IRBND,62,26,20,1,Anchorage,Persian Gulf,Arabian Gulf,['-']
+378,China,LIJIANG,CNLIJ,62,31,51,1,Port,South China,South China,['-']
+379,Greece,GOUVIA,-,62,18,22,0,Marina,Ionian Sea,East Mediterranean,['TZAVROS']
+380,India,KOCHI,INCOK,61,38,43,26,Port,West Coast India,West Coast India,"['COCHIN', ' INKOC']"
+381,USA,TAMPA,USTPA,61,23,21,17,Port,Gulf of Mexico,Gulf of Mexico,['-']
+382,USA,JACKSONVILLE,USJAX,61,12,13,15,Port,US East Coast,US East Coast,['-']
+383,Turkey,TUZLA ANCH,TRTUZ,61,48,53,0,Anchorage,Marmara Sea,Black Sea,['-']
+384,Italy,VENICE,ITVCE,60,30,28,28,Port,Adriatic Sea,Adriatic Sea,"['VENEZIA', ' PORTO MARGHERA', ' ITPMA', ' MARGHERA']"
+385,Saudi Arabia,AL JUBAIL,SAJUB,60,15,21,27,Port,Persian Gulf,Arabian Gulf,"['JUBAIL', ' ALJUBAIL']"
+386,China,HAIKOU,CNHAK,60,28,44,25,Port,South China,South China,['HAI KOU']
+387,Netherlands,MOERDIJK,NLMOE,60,28,38,20,Port,North Sea,UK Coast & Atlantic,['-']
+388,Germany,WILHELMSHAVEN,DEWVN,60,15,22,17,Port,North Sea,UK Coast & Atlantic,['JADE WESER']
+389,China,CHEK LAP KOK,CNTPO,60,113,114,9,Port,South China,South China,"['TAIPO', ' TAI PO']"
+390,Germany,TRAVEMUNDE,DETRV,60,54,54,6,Port,Baltic Sea,Baltic Sea,['TRAVEMUENDE']
+391,Netherlands,AMSTERDAM ANCH,NLAMS,60,32,29,0,Anchorage,North Sea,UK Coast & Atlantic,['IJMUIDEN ANCH']
+392,Sri Lanka,COLOMBO,LKCMB,59,16,15,60,Port,Laccadive Sea,East Coast India,['-']
+393,USA,CORPUS CHRISTI,USCRP,59,33,30,41,Port,Gulf of Mexico,Gulf of Mexico,"['C CHRISTI', ' CORPUS CRISTI']"
+394,China,LUSHUN,CNLSH,59,85,94,16,Port,Bohai Sea,North China,"['LVSHUN', ' LU SHUN']"
+395,Ecuador,GUAYAQUIL,ECGYE,59,10,11,13,Port,West South America,West South America,['-']
+396,Germany,LUBECK,DELBC,59,24,39,9,Port,Baltic Sea,Baltic Sea,['LUEBECK']
+397,Australia,CAIRNS,AUCNS,59,25,29,7,Port,Coral Sea,East Australia,['-']
+398,Portugal,PORTIMAO,PTPRM,59,26,22,7,Port,UK Coast & Atlantic,UK Coast & Atlantic,['-']
+399,Denmark,HANSTHOLM,DKHAN,59,9,31,6,Port,North Sea,UK Coast & Atlantic,['-']
+400,United Kingdom,LOWESTOFT,GBLOW,59,25,34,3,Port,North Sea,UK Coast & Atlantic,['BOULEVARD LEISURE CE']
+401,Guinea,KAMSAR ANCH,GNKMR,59,32,29,2,Anchorage,West Africa,West Africa,['-']
+402,Canada,TORONTO,CATOR,59,9,9,1,Port,Lake Ontario,Great Lakes,['-']
+403,Norway,KJOLLEFJORD,NOKJF,59,13,9,0,Port,Norwegian Coast,Norwegian Coast,['-']
+404,Togo,LOME ANCH,TGLFW,59,12,14,0,Anchorage,Gulf of Guinea,West Africa,['-']
+405,USA,MARINA PLAZA HARBOR,-,59,22,29,0,Marina,US West Coast,US West Coast,"['-', ' SAUSALITO YACHT ', ' ISSAQUAH DOCK', ' LIBERTY DOCK']"
+406,Russia,ARKHANGELSK,RUARH,58,2,1,19,Port,White Sea,North Coast CIS,['-']
+407,Korea,BUSAN NEW PORT,KRBNP,58,88,79,18,Port,North China,North China,"['PUSAN NEWPORT', ' PUSAN NEW PORT', ' KR PNC']"
+408,Italy,NAPOLI,ITNAP,58,31,30,16,Port,Tyrrhenian Sea,West Mediterranean,['NAPLES']
+409,Spain,TORREVIEJA,ESTOR,58,22,23,6,Port,West Mediterranean,West Mediterranean,['-']
+410,Vietnam,HON GAI ANCH,VNHON,58,22,20,3,Anchorage,South-East Asia,South-East Asia,['-']
+411,France,PORT DU CROUESTY,FRRZN,58,18,49,0,Port,Biscay Bay,UK Coast & Atlantic,['ARZON']
+412,Netherlands,ROTTERDAM ANCH,NLRTM,58,29,23,0,Anchorage,North Sea,UK Coast & Atlantic,['-']
+413,USA,WATERFORD HARBOR,USWTH,58,11,17,0,Marina,Gulf of Mexico,Gulf of Mexico,"['SOUTH TEXAS SERVICES', ' WATERGATE YACHTING']"
+414,Japan,MIZUSHIMA,JPMIZ,57,87,80,93,Port,Japan Coast,Japan Coast,['-']
+415,Russia,ROSTOV-ON-DON,RUROV,57,17,28,62,Port,Azov Sea,"Inland, Russia","['ROSTOV ON DON', ' ROSTOV']"
+416,Denmark,ESBJERG,DKEBJ,57,60,69,15,Port,North Sea,UK Coast & Atlantic,['-']
+417,Netherlands,LAUWERSOOG,NLLAN,57,59,46,15,Port,North Sea,UK Coast & Atlantic,['-']
+418,Japan,TOKYO BAY,JPTYO,57,200,181,3,Anchorage,Japan Coast,Japan Coast,['-']
+419,United Kingdom,POOLE,GBPOO,57,29,46,1,Port,English Channel,UK Coast & Atlantic,['-']
+420,Bahrain,GALALI,BHQAL,57,2,1,0,Port,Persian Gulf,Arabian Gulf,['QALALI']
+421,United Kingdom,SOLENT,GBSOU,57,12,32,0,Port,English Channel,UK Coast & Atlantic,['-']
+422,Malaysia,TANJUNG PELEPAS ANCH,MYTPP,57,50,51,0,Anchorage,Singapore Area,Indonesia,['-']
+423,Spain,CORUNA,ESLCG,56,43,41,20,Port,Biscay Bay,UK Coast & Atlantic,"['ACORUNA', ' LA CORUNA', ' A CORUNA']"
+424,Korea,GOHYEON,KRKHN,56,35,36,8,Port,North China,North China,"['GOHYUN', ' GEOJE']"
+425,China,LIAN JIANG,CNLNJ,56,37,25,3,Port,East China Sea,South China,"['LIANJIANG', ' HUANGQI']"
+426,Finland,TURKU,FITKU,56,10,14,2,Port,Bothnia Gulf,Baltic Sea,['ABO']
+427,Canada,VAN ISLE,CAVAN,56,15,24,0,Marina,West Coast Canada,West Coast Canada,['-']
+428,China,BINZHOU,CNBIN,55,44,42,38,Port,Bohai Sea,North China,"['BIN ZHOU', ' TAOER RIVER PORT']"
+429,Russia,UST-LUGA,RUULU,55,43,42,37,Port,Finland Gulf,Baltic Sea,"['UST LUGA', ' USTLUGA']"
+430,Angola,LUANDA,AOLAD,55,13,11,36,Port,West Africa,West Africa,['ANGOLA']
+431,Russia,NAKHODKA,RUNJK,55,16,23,34,Port,CIS Pacific,CIS Pacific,['NAHODKA']
+432,Ivory Coast,ABIDJAN,CIABJ,55,6,5,27,Port,Gulf of Guinea,West Africa,['ABIJAN']
+433,Taiwan,TAIPEI,TWTPE,55,13,15,26,Port,East China Sea,South China,['TAI PEI']
+434,Australia,TOWNSVILLE,AUTSV,55,57,62,13,Port,Coral Sea,East Australia,['-']
+435,Nigeria,PORT HARCOURT,NGPHC,55,16,15,2,Port,Gulf of Guinea,West Africa,"['HARCOURT', ' PORTHARCOURT', ' AMADI BASE', ' AMADIBASE']"
+436,United Kingdom,PORTLAND UK,GBPTL,55,22,28,1,Port,English Channel,UK Coast & Atlantic,['PORTLAND']
+437,Netherlands,MUIDERZAND,-,55,19,39,0,Port,North Sea,UK Coast & Atlantic,['-']
+438,Mexico,DOS BOCAS,MXDBT,54,24,26,33,Port,Gulf of Mexico,Gulf of Mexico,['DOSBOCAS']
+439,Canada,QUEBEC,CAQUE,54,17,21,20,Port,St. Lawrence River,East Coast Canada,['SILLERY']
+440,New Caledonia,NOUMEA,NCNOU,54,29,33,14,Port,Coral Sea,East Australia,['-']
+441,Germany,EMDEN,DEEME,54,29,38,12,Port,North Sea,UK Coast & Atlantic,['-']
+442,Turkey,NEMRUT,TRNEM,54,46,44,11,Port,Aegean Sea,East Mediterranean,['-']
+443,Poland,SWINOUJSCIE,PLSWI,54,40,30,11,Port,Baltic Sea,Baltic Sea,['-']
+444,Netherlands,MAASBRACHT,NLMSB,54,36,41,7,Port,"Inland, Europe","Inland, Europe",['-']
+445,Korea,YEOSU ANCH,KRYOS,54,121,100,7,Anchorage,East China Sea,North China,['-']
+446,Italy,SANREMO,ITSRE,54,9,7,5,Port,Ligurean Sea,West Mediterranean,['SAN REMO']
+447,Netherlands,VOLENDAM,NLVOD,54,45,50,2,Port,North Sea,UK Coast & Atlantic,['-']
+448,USA,ALAMITOS BAY,-,54,12,26,0,Marina,US West Coast,US West Coast,"['LONG BEACH YACHT', ' ALAMITOS', ' NAPLES ISLAND', ' CERRITOS BAHIA']"
+449,Netherlands,HINDELOOPEN,NLHLP,54,33,36,0,Port,North Sea,UK Coast & Atlantic,['-']
+450,Germany,LABOE,DELAB,54,34,50,0,Marina,Kiel Canal,Baltic Sea,['-']
+451,Korea,TONGYEONG,KRTYG,53,82,94,57,Port,North China,North China,['-']
+452,Japan,SAKAI,JPSAK,53,100,97,54,Port,Japan Coast,Japan Coast,"['SAKAISENBOKU', ' JP SBK']"
+453,USA,MOBILE,USMOB,53,19,22,32,Port,Gulf of Mexico,Gulf of Mexico,['-']
+454,Canada,PRINCE RUPERT,CAPRR,53,41,46,17,Port,West Coast Canada,West Coast Canada,['-']
+455,Korea,SAMCHEONPO,KRSCP,53,29,42,15,Port,North China,North China,['-']
+456,Denmark,GILLELEJE,DKGLE,53,19,26,4,Port,Kattegat,Baltic Sea,['-']
+457,Netherlands,FLEVO MARINA,-,53,27,42,0,Port,North Sea,UK Coast & Atlantic,['-']
+458,Brazil,PARANAGUA ANCH,BRPNG,53,3,8,0,Anchorage,East Coast South America,East Coast South America,['-']
+459,United Kingdom,PORT HAMBLE,GBHAM,53,22,39,0,Marina,English Channel,UK Coast & Atlantic,"['SOUTHAMPTON', ' HAMPSHI']"
+460,Australia,SOUTHPORT QLD,AUSHQ,53,22,20,0,Port,Coral Sea,East Australia,['SOUTHPORT']
+461,New Zealand,AUCKLAND,NZAKL,52,74,85,26,Port,East Australia,East Australia,['-']
+462,Puerto Rico,SAN JUAN,PRSJU,52,4,5,22,Port,Caribbean Sea,Caribbean Sea,['PUERTO NUEVO']
+463,Japan,KUSHIRO,JPKUH,52,73,57,20,Port,Japan Coast,Japan Coast,['HIGASHI']
+464,USA,KODIAK,USADQ,52,5,3,18,Port,Gulf of Alaska,Alaska,['AFOGNAK']
+465,United Kingdom,LIVERPOOL,GBLIV,52,31,45,12,Port,Irish Sea,UK Coast & Atlantic,['-']
+466,Denmark,AALBORG,DKAAL,52,9,22,7,Port,Kattegat,UK Coast & Atlantic,['NORRESUNDBY']
+467,Netherlands,STELLENDAM,NLSTD,52,21,16,6,Port,Rotterdam Area,UK Coast & Atlantic,['-']
+468,USA,NEW BEDFORD,USNBD,52,6,5,4,Port,US East Coast,US East Coast,"['NIEMIEC MARINE', ' HOMERS WHARF', ' WHALING CITY']"
+469,Greece,AGIOS KOSMAS,-,52,4,17,2,Marina,Piraeus Area,East Mediterranean,"['AG.KOSMAS', ' AG KOSMAS']"
+470,Greece,ALIMOS,GRAIO,52,24,24,2,Marina,Piraeus Area,East Mediterranean,['ALIMOU']
+471,USA,AVENTURA,USAVU,52,8,9,0,Port,US East Coast,US East Coast,['-']
+472,Nigeria,LAGOS ANCH,NGLOS,52,23,26,0,Anchorage,Gulf of Guinea,West Africa,['-']
+473,Sweden,LANGEDRAG,SELGD,52,58,75,0,Port,Kattegat,Baltic Sea,['SALTHOLMEN']
+474,Panama,PANAMA ANCH ATLANTIC,PARCN,52,26,31,0,Anchorage,Panama Canal,East Coast Central America,['-']
+475,China,FUZHOU,CNFOC,51,18,23,89,Port,East China Sea,South China,"['FU ZHOU', ' MAWEI']"
+476,Korea,ONSAN,KRONS,51,121,121,26,Port,North China,North China,['KR USN']
+477,China,PENGLAI,CNPLI,51,63,61,22,Port,Bohai Sea,North China,"['PENG LAI', ' CNPLA']"
+478,USA,PORT EVERGLADES,USPEF,51,23,21,22,Port,US East Coast,US East Coast,['-']
+479,India,KAKINADA,INKAK,51,8,10,21,Port,Bengal Bay,East Coast India,['-']
+480,Japan,NAHA,JPNAH,51,33,42,15,Port,East China Sea,Japan Coast,['-']
