@@ -1,5 +1,5 @@
 # Shipping Ports Around The World Analysis
-![](Shipping_Ports_image.jpg)
+![](images/Shipping_Ports_image.jpg)
 
 
 ## Project Overview
@@ -47,7 +47,75 @@ Below are some information on the fields we have in this dataset for a better un
 - __Departures (Last 24 Hours):__ This field indicates the number of vessels that have departed from the port within the last 24 hours. It provides information about recent outbound maritime traffic from the port.
 - __Arrivals (Last 24 Hours):__ This field indicates the number of vessels that have arrived at the port within the last 24 hours. It provides information about recent inbound maritime traffic to the port.
 - __Expected Arrivals:__ This field indicates the number of vessels expected to arrive at the port within a specified time frame, typically within the next few days. It provides advance notice of incoming maritime traffic and helps port authorities and stakeholders plan and manage port operations effectively.
-- __Type:__ This field categorizes the port based on its primary function or specialization. Common port types that were provided in this analysis are ports, anchorage nad marina.
+- __Type:__ This field categorizes the port based on its primary function or specialization. Common port types that were provided in this analysis are ports, anchorage, marina and canal.
 - __Area Local:__ This field refer to the local geographical area or region in which the port is situated. It provides additional context about the port's location within its immediate surroundings.
 - __Area Global:__ This field refer to the global geographical region or area to which the port belongs. It provides information about the port's broader geographical context and its connection to global maritime networks.
 - __Also known as:__ This field contain alternative names or aliases for the port. It provides additional information about how the port may be referred to in different contexts or languages.
+
+
+### Skills Utilized
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualiziation
+4. Descriptive Analytics
+5. Critical Thinking and Problem Solving
+6. Communication and Reporting
+
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Clean,
+        3. Transform,
+        4. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Button
+
+### Data Cleaning, Transformation and Loading using MS Sql Server:
+1. Was able to find online and fill in most of the missing __UN Code__ with the help of the __Country__ and __Port Name__ details provided.
+2. Was able to find online and fill in the missing __Country__ details with the aid of the __Port Name__ and __UN Code__ details provided.
+3. Used __-__ (hyphen) for the __UN Code__ details that couldsn't be found.
+4. Changed all data types of the fields in the table to the right data type.
+
+
+**Power Query View**
+
+Power Query Screenshot                                                             |                                
+:---------------------------------------------------------------------------------:|
+![](images/Power_Query_Screenshort.png)
+
+You can access the complete Power BI project document [here](SHIPPING%20PORTS%20AROUND%20THE%20WORLD%20ANALYSIS.pbix).
+
+
+## Data Modelling
+No data modelling was required since we needed just a table for the analysis.
+
+
+## Visualization in Power BI:
+#### Report View 1
+![](images/Shipping_Ports_Around_The_World_Analysis_Dashboard1.jpg)
+
+#### Report View 2
+![](images/Shipping_Ports_Around_The_World_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- The Total Number of Ports is __480.__
+- The Total Vessels In Port is __73,590.__
+- Total Arrived Vessels is __52,158.__
+- Total Expected Vessels is __18,832.__
+- Number of Port Types is __4.__
+
+- <img src="images/Total_No_Of_Ports_By_Type.jpg" width="300">
+- **Total Number of Ports By Type:**
+- In this analysis of the Total Number of Ports By Type, i was able to coome up with the following insights:
+- __Port Type Distribution:__ The dataset provides a breakdown of port types, including Port, Anchorage, Marina, and Canal. The majority of the entries fall under the category of traditional __"Ports,"__ constituting approximately 81.46% of the total. __"Anchorage"__ comes next, representing 13.75% of the total, indicating a significant presence of locations where vessels anchor rather than dock. __"Marina"__ and __"Canal"__ types contribute relatively smaller percentages, accounting for 3.75% and 1.04%, respectively.
+- __Implications of Port Types:__ The dominance of traditional "Ports" suggests a substantial infrastructure dedicated to handling various types of cargo and facilitating maritime trade.
+A notable presence of "Anchorage" indicates areas where vessels anchor, possibly for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating and possibly tourism-related maritime activities. "Canals," although a smaller percentage, may represent critical waterways designed for navigation and transportation purposes.
