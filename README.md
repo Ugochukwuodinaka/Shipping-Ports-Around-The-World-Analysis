@@ -164,3 +164,19 @@ Port authorities and logistics operators can use this information to anticipate 
 - __Mediterranean and Baltic Sea Traffic:__ The West Mediterranean and Baltic Sea regions feature in the top 10 list, reflecting the significant maritime traffic in these key European waterways. Ports in these regions serve as important nodes in Europe's maritime trade networks, connecting the Mediterranean Sea to the Atlantic Ocean and the Baltic Sea to the North Sea.
 - __US Coastline Traffic Distribution:__ The US East Coast and US West Coast appear with 2,046 and 1,931 vessels in port respectively in the top 10 list, highlighting the importance of ports along the US coastline. Ports on the US East Coast and West Coast serve as major gateways for transatlantic and transpacific trade, respectively, connecting the US to global markets.
 - __Arabian Gulf's Role in Global Trade:__ The Arabian Gulf region with 1,718 vessels in port, represented by ports in countries like UAE, Saudi Arabia, and Qatar, features in the top 10 list, reflecting its significance as a key maritime hub in the Middle East. Ports in the Arabian Gulf serve as vital nodes in global trade routes, connecting Asia, Europe, and Africa.
+
+
+- <img src="images/Top10_Ports_With_Most_Vessel_Traffic_By_Area_Local.jpg" width="300">
+- **The Top 10 Ports With The Most Vessel Traffic By Area Local:**
+- My analysis below gives an insight into The Top 10 Ports With The Most Vessel Traffic By Area Local:
+- __Dominance of the Yellow Sea:__ The Yellow Sea emerges as the area with the highest vessel traffic, with a substantial count of 4,210 vessels in port. This underscores the Yellow Sea's significance as a major maritime thoroughfare, connecting ports in China, South Korea, and North Korea.
+- __US Coastlines in Second and Third Place:__ The US West Coast and US East Coast rank second and third with 1,931 and 1,695 vessels respectively, in terms of vessel traffic within their local areas. These regions are vital maritime gateways for trade between the United States and Asia, Europe, and other regions around the world.
+- __Importance of West Coast Canada:__ West Coast Canada, represented by ports in British Columbia, demonstrates significant vessel traffic, ranking fourth on the list qith 841 vessels in port. Ports in this region serve as key hubs for trade between Canada, Asia, and the Pacific Rim countries.
+- __Mediterranean and Indian Coasts Presence:__ The West Mediterranean and West Coast India regions with 537 and 505 vessels in port, respectively, also feature in the top 10 list, highlighting their importance in regional maritime trade. These areas serve as crucial nodes in global shipping routes, connecting Europe to the Middle East, Africa, and Asia.
+- __West Africa and South America Representation:__ West Africa and West South America regions have notable vessel traffic with 353 and 259 vessels in port, resepectively, indicating the importance of ports in these areas for trade and commerce. Ports in West Africa and South America play key roles in facilitating trade between these regions and other parts of the world.
+- __Lower Traffic in West Australia and White Sea:__ West Australia and the White Sea regions have comparatively lower vessel traffic, with 66 and 58 vessels in port, respectively.
+While these regions may have fewer ports or lower trade volumes compared to other areas, they still contribute to local and regional economies.
+
+
+- <img src="images/Top10_Ports_With_Most_Vessel_Traffic_By_Area_Local.jpg" width="300">
+- **The Top 10 Ports With The Most Vessel Traffic By Area Local:**
