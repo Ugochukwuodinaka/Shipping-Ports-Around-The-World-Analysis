@@ -118,11 +118,11 @@ No data modelling was required since we needed just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
+- Number of Port Types is __4.__
 - The Total Number of Ports is __480.__
 - The Total Vessels In Port is __73,590.__
 - Total Arrived Vessels is __52,158.__
 - Total Expected Vessels is __18,832.__
-- Number of Port Types is __4.__
 
 - <img src="images/Total_No_Of_Ports_By_Type.jpg" width="300">
 - **Total Number of Ports By Type:**
