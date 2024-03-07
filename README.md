@@ -2,6 +2,16 @@
 ![](images/Shipping_Ports_image.jpg)
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations For Improving The Efficiency of Shipping Port Services Globally:](#recommendations-for-improving-the-efficiency-of-shipping-port-services-globally)
+
+
 ## Project Overview
 
 ### Introduction:
@@ -60,6 +70,7 @@ Below are some information on the fields we have in this dataset for a better un
 4. Descriptive Analytics
 5. Critical Thinking and Problem Solving
 6. Communication and Reporting
+
 
 ### Tools Used
 1. Power Query Editor
@@ -190,7 +201,7 @@ Each port may have distinct functions and specialties, catering to specific type
 
 - <img src="images/Port_Locations_Across_Continents_%26_Countries.jpg" width="400">
 - **Port Locations Across Continents and Countries:**
-- The geospatial map displaying port locations, countries, port types, the number of ports and vessels in port offers valuable insights into the "Shipping Ports Around The World Analysis." Here's a detailed analysis:
+- The geospatial map displaying port locations, countries, port types, the number of ports and vessels in port offers valuable insights into the "Shipping Ports Around The World Analysis." Here's the analysis details:
 - __Visual Representation of Global Port Infrastructure:__ The geospatial map provides us with a visual representation of port infrastructure across continents and countries. It offers an intuitive understanding of the spatial distribution of ports, highlighting their clustering in different regions.
 - __Identification of Continental and Country-Level Port Distribution:__  The map enables us identify the regions with a high concentration of ports, such as coastal areas and major river deltas.
 - __Insights into Port Types and Their Distribution:__ By displaying port types on the map, we are enabled to identify the different types of ports, such as port, canal, marina, and anchorage. Understanding the distribution of port types provides insights into the diverse functions and roles that ports play in facilitating maritime trade and transportation.
@@ -199,5 +210,18 @@ Each port may have distinct functions and specialties, catering to specific type
 High concentrations of vessels in certain ports may indicate significant trade volumes, economic activity, and strategic importance.
 
 
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiOWQ0ZDM3NTctMWY0Zi00ZTk1LWFhNmItZmFmYjZkNzJlY2I0IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9&pageName=ReportSection).
+
+## Recommendations For Improving The Efficiency of Shipping Port Services Globally:
+- __Investment in Infrastructure:__ Governments and port authorities should prioritize investment in port infrastructure to enhance capacity and efficiency. This includes expanding terminal facilities, modernizing equipment, and improving navigation channels to accommodate larger vessels.
+- __Implement Advanced Technology:__ Adoption of advanced technologies such as automation, Internet of Things (IoT), and Artificial Intelligence (AI) can streamline port operations, optimize cargo handling processes, and reduce turnaround times for vessels.
+- __Enhance Intermodal Connectivity:__ Improving intermodal connectivity between ports and hinterland transportation networks (road, rail, and inland waterways) is essential to facilitate seamless cargo movement and reduce congestion in and around ports.
+- __Implement Port Community Systems:__ Deployment of Port Community Systems (PCS) facilitates electronic data exchange and collaboration among stakeholders, including shipping lines, terminal operators, customs authorities, and logistics providers. This promotes efficient information flow and coordinated operations within ports.
+- __Optimize Berth Allocation:__ Implementing berth scheduling and allocation systems based on predictive analytics and real-time data can optimize vessel traffic management, reduce idle time for ships, and enhance berth utilization efficiency.
+- __Facilitate Collaboration and Partnerships:__ Foster collaboration and partnerships among port stakeholders, including public and private entities, shipping lines, terminal operators, and logistics providers, to address common challenges, share best practices, and drive continuous improvement in port operations.
+- __Invest in Workforce Training and Development:__ Provide training programs and skill development initiatives for port personnel to enhance their competencies in handling modern port equipment, managing digital technologies, and implementing best practices in port operations and management.
+- __Develop Contingency Plans:__ Develop robust contingency plans and risk management strategies to mitigate the impact of disruptions, such as natural disasters, pandemics, or geopolitical events, on port operations and ensure business continuity.
 
 
+## Thank You For Following Through!
