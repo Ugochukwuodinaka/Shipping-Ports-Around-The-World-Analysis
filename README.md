@@ -133,7 +133,7 @@ A notable presence of "Anchorage" indicates areas where vessels anchor, possibly
 
 
 - <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="300">
-- **Top 10 Ports By Vvessels In Traffic:**
+- **Top 10 Ports By Vessels In Traffic:**
 - In this analysis of the Top 10 Ports By Vessels In Traffic, i came up with the below insights:
 - __Shanghai Dominates Vessel Traffic:__ Shanghai emerges as the leading port in terms of vessel traffic, with a substantial count of 2,420 vessels in port. This dominance highlights Shanghai's strategic importance as a major hub for maritime transportation and trade in the region.
 - __Significance of Chinese Ports:__ Chinese ports feature prominently in the top 10 list, with Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, Zhoushan, and Yangzhou all making the cut.
@@ -143,7 +143,7 @@ This underscores China's role as a key player in the global shipping industry, w
 
 
 
-- <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="300">
+- <img src="images/Top10_Countries_With_Most_No_Of_Ports.jpg" width="300">
 - **The Top 10 Countries With The Most Number of Ports:**
 - In this analysis of the Top 10 Countries with The Most Number of Ports, the details below gives us insights into this analysis:
 - __China Leads in Port Density:__ China emerges as the country with the highest number of ports, boasting a total of 122 ports. This dominance underscores China's vast coastline and its strategic focus on maritime trade and transportation.
