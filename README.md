@@ -126,7 +126,7 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Total_No_Of_Ports_By_Type.jpg" width="300">
 - **Total Number of Ports By Type:**
-- In this analysis of the Total Number of Ports By Type, i was able to coome up with the following insights:
+- In this analysis of the Total Number of Ports By Type, i was able to come up with the following insights:
 - __Port Type Distribution:__ The dataset provides a breakdown of port types, including Port, Anchorage, Marina, and Canal. The majority of the entries fall under the category of traditional __"Ports,"__ constituting approximately 81.46% of the total. __"Anchorage"__ comes next, representing 13.75% of the total, indicating a significant presence of locations where vessels anchor rather than dock. __"Marina"__ and __"Canal"__ types contribute relatively smaller percentages, accounting for 3.75% and 1.04%, respectively.
 - __Implications of Port Types:__ The dominance of traditional "Ports" suggests a substantial infrastructure dedicated to handling various types of cargo and facilitating maritime trade.
 A notable presence of "Anchorage" indicates areas where vessels anchor, possibly for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating and possibly tourism-related maritime activities. "Canals," although a smaller percentage, may represent critical waterways designed for navigation and transportation purposes.
