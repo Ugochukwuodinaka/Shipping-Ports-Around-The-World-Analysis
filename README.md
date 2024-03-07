@@ -178,5 +178,26 @@ Port authorities and logistics operators can use this information to anticipate 
 While these regions may have fewer ports or lower trade volumes compared to other areas, they still contribute to local and regional economies.
 
 
-- <img src="images/Top10_Ports_With_Most_Vessel_Traffic_By_Area_Local.jpg" width="300">
-- **The Top 10 Ports With The Most Vessel Traffic By Area Local:**
+- <img src="images/Top15_Ports_By_Vessels_In_Port_Vessels_Departed_Vessels_Arrived_Trend.jpg" width="400">
+- **Top 15 Ports By Vessels In Port, Vessels Departed and Vessels Arrived:**
+- In this analysis of the Top 15 Ports By Vessels In Port, Vessels Departed and Vessels Arrived, the details below gives us insights into this analysis:
+- __Shanghai Dominates Across Metrics:__ Shanghai emerges as the top port across all metrics, with the highest number of vessels in port, arrivals, and departures which are 2,420, 1,626 and 1,376 vessels resctively. This underscores Shanghai's status as a major global maritime hub and a critical node in international trade routes.
+- __Regional Trends in China:__ Chinese ports, including Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, and Zhoushan, feature prominently in the top 15 list. This highlights China's dominance in the maritime industry, with several ports handling significant volumes of vessel traffic.
+- __Singapore's Role as a Global Hub:__ Singapore ranks among the top ports in terms of vessels in port, arrivals, and departures with 1,109, 1,748 and 1,682 vessels respectively, highlighting its importance as a key maritime hub in Southeast Asia. Singapore's strategic location, world-class infrastructure, and efficient port operations contribute to its prominence in global trade and logistics.
+- __Variety of Port Functions:__ Ports like Tianjin, Jinzhou Anch, and Hong Kong demonstrate significant vessel traffic, indicating their importance in regional and international trade.
+Each port may have distinct functions and specialties, catering to specific types of cargo or serving as transshipment hubs.
+- __European Ports in the Mix:__ European ports like Amsterdam feature in the top 15 list with 767 vessels in port, 228 arrivals and 179 departures, reflecting their role in facilitating trade between Europe, Asia, and other regions. European ports leverage their strategic location, efficient logistics networks, and advanced infrastructure to attract vessel traffic and support global trade flows.
+
+- <img src="images/Port_Locations_Across_Continents_%26_Countries.jpg" width="400">
+- **Port Locations Across Continents and Countries:**
+- The geospatial map displaying port locations, countries, port types, the number of ports and vessels in port offers valuable insights into the "Shipping Ports Around The World Analysis." Here's a detailed analysis:
+- __Visual Representation of Global Port Infrastructure:__ The geospatial map provides us with a visual representation of port infrastructure across continents and countries. It offers an intuitive understanding of the spatial distribution of ports, highlighting their clustering in different regions.
+- __Identification of Continental and Country-Level Port Distribution:__  The map enables us identify the regions with a high concentration of ports, such as coastal areas and major river deltas.
+- __Insights into Port Types and Their Distribution:__ By displaying port types on the map, we are enabled to identify the different types of ports, such as port, canal, marina, and anchorage. Understanding the distribution of port types provides insights into the diverse functions and roles that ports play in facilitating maritime trade and transportation.
+- __Quantification of Port Infrastructure:__ In this map, port infrastructure are depicted as the the number of ports within each country or region can viewed. This quantitative data offers insights into the scale of maritime infrastructure and the level of maritime activity across different parts of the world.
+- __Assessment of Vessel Activity:__ In addition to port infrastructure, this map displays the number of vessels in port, providing insights into maritime traffic and activity levels.
+High concentrations of vessels in certain ports may indicate significant trade volumes, economic activity, and strategic importance.
+
+
+
+
