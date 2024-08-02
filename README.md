@@ -69,7 +69,7 @@ Below are some information on the fields we have in this dataset for a better un
 2. Data Modelling
 3. Data Visualiziation
 4. Descriptive Analytics
-5. Critical Thinking and Problem Solving
+5. Analytical Thinking and Problem Solving
 6. Communication and Reporting
 <br />
 
@@ -78,8 +78,7 @@ Below are some information on the fields we have in this dataset for a better un
     - Was used to:
         1. Extract,
         2. Clean,
-        3. Transform,
-        4. Load all the datasets for this analysis.
+        3. Transform all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -91,11 +90,12 @@ Below are some information on the fields we have in this dataset for a better un
         6. Button
 <br />
 
-### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. Was able to find online and fill in most of the missing __UN Code__ with the help of the __Country__ and __Port Name__ details provided.
-2. Was able to find online and fill in the missing __Country__ details with the aid of the __Port Name__ and __UN Code__ details provided.
-3. Used __-__ (hyphen) for the __UN Code__ details that couldsn't be found.
-4. Changed all data types of the fields in the table to the right data type.
+### Data Cleaning and Transformation in MS Sql Server:
+1. Checked to confirm all data types.
+2. Was able to find online most of the missing values of the __UN Code__ column and filled them up with the help of the __Country__ and __Port Name__ column details provided.
+3. Was able to find online the missing __Country__ column details with the aid of the __Port Name__ and __UN Code__ details provided.
+4. Used __-__ (hyphen) for the __UN Code__ details that couldsn't be found.
+5. Changed all data types of the fields in the table to the right data type.
 <br />
 
 **Power Query View**
@@ -123,12 +123,12 @@ No data modelling was required since we needed just a table for the analysis.
 <br />
 
 ### Project Analysis:
-From the analysis, i made the following Key findings below:
-- Number of Port Types is __4.__
-- The Total Number of Ports is __480.__
-- The Total Vessels In Port is __73,590.__
-- Total Arrived Vessels is __52,158.__
-- Total Expected Vessels is __18,832.__
+From the analysis, i made the Key findings below:
+- Number of Port Types: __4.__
+- The Total Number of Ports: __480.__
+- The Total Vessels In Port: __73,590.__
+- Total Arrived Vessels: __52,158.__
+- Total Expected Vessels: __18,832.__
 <br />
 <br />
 
