@@ -90,12 +90,13 @@ Below are some information on the fields we have in this dataset for a better un
         6. Button
 <br />
 
-### Data Cleaning and Transformation in MS Sql Server:
+### Data Cleaning and Transformation in Power Query Editor:
 1. Checked to confirm all data types.
-2. Was able to find online most of the missing values of the __UN Code__ column and filled them up with the help of the __Country__ and __Port Name__ column details provided.
-3. Was able to find online the missing __Country__ column details with the aid of the __Port Name__ and __UN Code__ details provided.
+2. Searched for and found online most of the missing values of the __UN Code__ column and filled them up with the help of the __Country__ and __Port Name__ column details provided.
+3. Searched for and found online the missing __Country__ column details with the aid of the __Port Name__ and __UN Code__ details provided.
 4. Used __-__ (hyphen) for the __UN Code__ details that couldsn't be found.
 5. Changed all data types of the fields in the table to the right data type.
+6. Made sure that all columns reported a column quality of __100%__ valid in Power Query Editor.
 <br />
 
 **Power Query View**
