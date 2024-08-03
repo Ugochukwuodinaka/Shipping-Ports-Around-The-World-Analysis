@@ -1,5 +1,5 @@
 # Shipping Ports Around The World Analysis
-![](images/Shipping_Ports_image1.jpg)
+![](images/Shipping_Ports_image.jpg)
 <br />
 
 ## Table of Contents
