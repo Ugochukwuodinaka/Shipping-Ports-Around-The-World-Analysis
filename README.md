@@ -135,22 +135,20 @@ From the analysis, i made the Key findings below:
 - <img src="images/Total_No_Of_Ports_By_Type.jpg" width="300">
 
 - **Total Number of Ports By Type:**
-- In this analysis of the Total Number of Ports By Type, i was able to come up with the following insights:
-- __Port Type Distribution:__ The dataset provides a breakdown of port types, including Port, Anchorage, Marina, and Canal. The majority of the entries fall under the category of traditional __"Ports,"__ constituting approximately 81.46% of the total. __"Anchorage"__ comes next, representing 13.75% of the total, indicating a significant presence of locations where vessels anchor rather than dock. __"Marina"__ and __"Canal"__ types contribute relatively smaller percentages, accounting for 3.75% and 1.04%, respectively.
-- __Implications of Port Types:__ The dominance of traditional "Ports" suggests a substantial infrastructure dedicated to handling various types of cargo and facilitating maritime trade.
-A notable presence of "Anchorage" indicates areas where vessels anchor, possibly for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating and possibly tourism-related maritime activities. "Canals," although a smaller percentage, may represent critical waterways designed for navigation and transportation purposes.
+- In this analysis of the Total Number of Ports By Type, I was able to come up with the following insights
+- __Port Type Distribution:__ The dataset provides a breakdown of port types. It includes Port, Anchorage Marina, and Canal. The majority of the entries fall under category of traditional __"Ports,"__ constituting approximately 81.46% of total. __"Anchorage"__ comes next. It represents 13.75% of the total indicating significant presence of locations where vessels anchor rather than dock. __"Marina"__ and __"Canal"__ types contribute relatively smaller percentages, accounting for 3.75% and 1.04% respectively
+- __Implications of Port Types:__ The dominance of traditional "Ports" suggests substantial infrastructure dedicated to handling various types of cargo. It facilitates maritime trade. A notable presence of "Anchorage" indicates areas where vessels anchor. This may occur for short stays or as waiting points before entering busier ports. The presence of "Marinas" highlights areas designed for recreational boating. It possibly includes tourism-related maritime activities. "Canals" although smaller percentage, may represent critical waterways designed for navigation and transportation purposes
 <br />
 <br />
 
 - <img src="images/Top10_Ports_By_Vessel_Traffic.jpg" width="300">
 
 - **Top 10 Ports By Vessels In Traffic:**
-- In this analysis of the Top 10 Ports By Vessels In Traffic, i came up with the below insights:
-- __Shanghai Dominates Vessel Traffic:__ Shanghai emerges as the leading port in terms of vessel traffic, with a substantial count of 2,420 vessels in port. This dominance highlights Shanghai's strategic importance as a major hub for maritime transportation and trade in the region.
-- __Significance of Chinese Ports:__ Chinese ports feature prominently in the top 10 list, with Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, Zhoushan, and Yangzhou all making the cut.
-This underscores China's role as a key player in the global shipping industry, with several ports handling significant volumes of vessel traffic.
-- __Regional Influence:__ The presence of ports like Singapore and Tianjin in the top 10 list indicates the regional significance of these maritime hubs. Singapore, known for its strategic location and world-class port facilities, serves as a crucial gateway to Asia and beyond. Tianjin, located in northern China, serves as a vital port for trade in the Bohai Bay region and beyond.
-- __Implications for Trade and Commerce:__ The high volume of vessel traffic in these ports reflects the intense economic activity and trade flows in their respective regions. Ports with high vessel traffic are likely to have robust infrastructure and logistics capabilities to handle the influx of ships and cargo efficiently. Stakeholders involved in global trade and logistics can use this information to optimize supply chain routes and operations.
+- In this analysis of Top 10 Ports By Vessels In Traffic I came up with below insights  
+- __Shanghai Dominates Vessel Traffic:__ Shanghai appears to be leading port in the area of vessel traffic. It has a substantial count of 2420 vessels in port. This dominance highlights Shanghai's strategic importance. It serves as a major hub for maritime transportation and trade in the region  
+- __Significance of Chinese Ports:__ Chinese ports feature prominently in top 10 list. Ports like Nantong CJK, Nanjing Jiangyin Zhangjiagang Zhoushan and Yangzhou all made a mark. This underscores China's role as key player in the global shipping industry. Several ports handle significant volumes of vessel traffic  
+- __Regional Influence:__ The presence of ports like Singapore and Tianjin in top 10 list indicates the regional significance of these maritime hubs. Singapore is known for its strategic location and world-class port facilities. It serves as a crucial gateway to Asia and beyond. Tianjin, located in northern China is vital port for trade in the Bohai Bay region and beyond
+- __Implications for Trade and Commerce:__ High volume of vessel traffic in these ports reflects intense economic activity and trade flows in their respective regions. Ports with high vessel traffic likely have robust infrastructure. They possess logistics capabilities. They handle influx of ships and cargo efficiently. Stakeholders involved in global trade and logistics can use this information for optimizie supply chain routes and operations
 <br />
 <br />
 
@@ -158,39 +156,38 @@ This underscores China's role as a key player in the global shipping industry, w
 - <img src="images/Top10_Countries_With_Most_No_Of_Ports.jpg" width="300">
 
 - **The Top 10 Countries With The Most Number of Ports:**
-- In this analysis of the Top 10 Countries with The Most Number of Ports, the details below gives us insights into this analysis:
-- __China Leads in Port Density:__ China emerges as the country with the highest number of ports, boasting a total of 122 ports. This dominance underscores China's vast coastline and its strategic focus on maritime trade and transportation.
-- __Variety of Port Facilities in the USA:__ The USA ranks second with 45 ports, reflecting its extensive coastline along the Atlantic, Pacific, and Gulf coasts. The USA's ports cater to diverse needs, including container shipping, bulk cargo, oil terminals, and passenger terminals.
-- __European Presence:__ European countries like the Netherlands, Germany, and the United Kingdom feature prominently in the top 10 list. The Netherlands, with 38 ports, is known for its world-class port infrastructure and strategic location in Europe.
-- __Global Maritime Hubs:__ Countries like Korea, Australia, Spain, and Russia also make the top 10 list, highlighting their importance as global maritime hubs. These countries serve as critical nodes in international trade routes, facilitating the movement of goods and commodities.
-- __Strategic Importance of Ports:__ The presence of a large number of ports in these countries reflects their strategic importance in global maritime logistics. Ports play a crucial role in supporting economic growth, facilitating trade, and connecting countries to international markets.
+- In this analysis of the Top 10 Countries with the Most Number of Ports the details below give us insights into this analysis  
+- __China Leads in Port Density:__ China emerges as country with highest number of ports, boasting a total of 122 ports. This dominance underscores China's vast coastline. It also reflects its strategic focus on maritime trade and transportation  
+- __Variety of Port Facilities in USA:__ USA ranks second with 45 ports. This reflects its extensive coastline along Atlantic Pacific and Gulf coasts. USA's ports cater to diverse needs, including container shipping bulk cargo, oil terminals, and passenger terminals  
+- __European Presence:__ European countries like Netherlands Germany and the United Kingdom feature prominently in the top 10 list. The Netherlands, with 38 ports is known for its world-class port infrastructure and strategic location in Europe  
+- __Global Maritime Hubs:__ Countries like Korea, Australia Spain, and Russia also make the top 10 list. This highlights their importance as global maritime hubs. These countries serve as critical nodes in international trade routes. They facilitate the movement of goods and commodities
+- __Strategic Importance of Ports:__ The presence of large number of ports in these countries reflects their strategic importance in global maritime logistics. Ports play a crucial role in supporting economic growth. They facilitate trade. They connect countries to international markets.
 <br />
 <br />
 
 - <img src="images/Top10_Ports_With_Most_Expected_Arrival_Vessels.jpg" width="300">
 
 - **The Top 10 Ports With The Most Expected Arrival Vessels:**
-- My analysis below gives an insight into The Top 10 Ports With The Most Expected Arrival Vessels:
-- __Singapore Leads in Expected Arrivals:__ Singapore emerges as the port with the highest number of expected arrival vessels, with a significant count of 1,203 vessels. This underscores Singapore's status as a major global maritime hub and a critical waypoint for vessels traversing key shipping routes.
-- __Chinese Ports Dominate the List:__ Chinese ports, including Shanghai, Zhoushan, Ningbo, CJK, Qingdao, and Caofeidian, feature prominently in the top 10 list. This highlights China's growing influence in the global shipping industry and the importance of its ports in facilitating international trade.
-- __Strategic Importance of Suez Canal:__ The presence of Suez Canal in the list signifies the canal's pivotal role in connecting the Mediterranean Sea to the Red Sea and facilitating maritime trade between Europe and Asia. The expected arrival of 409 vessels underscores the strategic significance of the canal as a major maritime artery.
-- __European Presence in Rotterdam:__ Rotterdam, located in the Netherlands, is the largest port in Europe and serves as a crucial gateway to the continent. With 336 expected arrival vessels, Rotterdam reaffirms its status as a key maritime hub in Europe and a vital node in global trade networks.
-- __Asian Ports of Busan:__ Busan, located in South Korea, is a prominent port in East Asia and a vital hub for maritime trade in the region. With 252 expected arrival vessels, Busan's inclusion in the top 10 list highlights its importance as a transshipment hub and gateway to Northeast Asia.
-- __Implications for Trade and Logistics:__ The high number of expected arrival vessels in these ports reflects the intense economic activity and trade flows in their respective regions.
-Port authorities and logistics operators can use this information to anticipate incoming vessel traffic and plan port operations and resources accordingly.
+- Here are the top 10 Ports With Most Expected Arrival Vessels:
+- __Singapore on Top:__ Singapore has the most expected arrival vessels with 1203. Singapore is a major global maritime player and a key stopover for ships on major shipping lanes.
+- __Chinese Ports Rule:__ Chinese ports – Shanghai Zhoushan, Ningbo CJK, Qingdao, Caofeidian make it to the top 10. China is getting bigger in shipping and its ports are crucial for international trade.
+- __Why Suez Canal:__ The Suez Canal’s presence in the list means it’s a vital link between the Mediterranean and the Red Sea. It’s a trade route between Europe and Asia.409 expected vessels mean the canal is a major maritime highway.
+- __European Presence in Rotterdam:__ Rotterdam in the Netherlands is the biggest port in Europe and a key gateway to the continent.336 expected arrival vessels means Rotterdam is a major maritime hub in Europe and a node in global trade.
+- __Asian Ports of Busan:__ Busan in South Korea is a major port in East Asia. It’s a key hub for maritime trade in the region.252 expected arrival vessels mean that Busan is a transshipment hub and gateway to Northeast Asia.
+- __Trade and Logistics Implications:__ The high number of expected arrival vessels in these ports means there’s a lot of economic activity and trade in their regions. Port authorities and logistics players can use this to anticipate vessel traffic. Plan port operations and resources accordingly
 <br />
 <br />
 
 - <img src="images/Top10_Ports_With_Most_Vessel_Traffic_By_Area_Global.jpg" width="300">
 
 - **The Top 10 Ports With The Most Vessel Traffic By Area Global:**
-- In this analysis, i developed insights for The Top 10 Ports With The Most Vessel Traffic By Area Global, the details below:
-- __Dominance of Central China:__ Central China emerges as the area with the highest vessel traffic, with a substantial count of 16,790 vessels in port. This indicates the significance of central Chinese ports as major hubs for maritime transportation and trade activities in the region.
-- __Variation in Traffic Across Chinese Regions:__ The presence of North China and South China in the top 10 list underscores the importance of these regions in China's maritime industry. North China and South China serve as key economic zones, hosting major ports that handle significant volumes of cargo and container traffic with 11,526, qnd 9,457 vessels in port respectively.
-- __UK Coast & Atlantic's Strategic Position:__ The inclusion of UK Coast & Atlantic with 9,017 vessels in port in the top 10 list highlights the strategic importance of ports along the UK coastline and the Atlantic Ocean. These ports serve as gateways to Europe and the North Atlantic, facilitating trade between the UK, Europe, and North America.
-- __Indonesia's Maritime Significance:__ Indonesia's presence with 2,946 cessels in port on the list signifies the country's importance as a maritime nation with a vast archipelago and numerous ports scattered across its islands. Indonesian ports play a crucial role in facilitating domestic and regional trade, connecting various islands and serving as transshipment hubs.
-- __Mediterranean and Baltic Sea Traffic:__ The West Mediterranean and Baltic Sea regions feature in the top 10 list, reflecting the significant maritime traffic in these key European waterways. Ports in these regions serve as important nodes in Europe's maritime trade networks, connecting the Mediterranean Sea to the Atlantic Ocean and the Baltic Sea to the North Sea.
-- __US Coastline Traffic Distribution:__ The US East Coast and US West Coast appear with 2,046 and 1,931 vessels in port respectively in the top 10 list, highlighting the importance of ports along the US coastline. Ports on the US East Coast and West Coast serve as major gateways for transatlantic and transpacific trade, respectively, connecting the US to global markets.
+- In this analysis, I created some insights about The Top 10 Ports With The Most Vessel Traffic By Area Global. Details are as follows:
+- __Central China Dominance:__ With a count of 16,790 vessels in port, Central China turns out to be the region with the highest vessel traffic. It is evidence of the centrality of the central Chinese ports as hubs for sea transportation and commerce activities within the region.
+- __Variation in Traffic Across Chinese Regions:__ That North China and South China have been included in the top 10 identifies the indispensable position of the two regions within the Chinese sea freight industry. North China and South China are the main economic areas and are locations for key harbors dealing with enormous volumes of cargo and container traffic with 11,526 and 9,457 vessels in port, respectively.
+- __Strategic Position of the UK Coast & Atlantic:__ Inclusion of UK Coast & Atlantic in the top 10 list with a total of 9017 vessels at port supposes a strategic position of the ports along the coastline of the UK and the Atlantic Ocean. These are the ports that offer access both to Europe and to the North Atlantic, thus linking the UK with Europe and North America in terms of trade.
+- __Maritime Significance of Indonesia_: With 2,946 vessels in port, Indonesia's inclusion on the list underscores its significance as a maritime nation, spanning an expansive archipelago with too many ports dotting its many different islands. Indonesian ports form a significant part of facilitating domestic and regional trade, connecting the different islands, and acting as transshipment hubs.
+- __Mediterranean and Baltic Sea Traffic:__ Also in the top 10 are the West Mediterranean and Baltic Sea, which only typify the large maritime traffic in these European key waterways. The ports in these regions play a major role in nodes of sea-based trade networks in Europe and help connect the Mediterranean Sea to the Atlantic Ocean and the Baltic Sea to the North Sea.
+– __US Coastline Traffic Distribution:__ The US East Coast and US West Coast featured in the top 10 list with 2,046 and 1,931 vessels in port, respectively, underpinning the volume of sea traffic in ports along the length of the US coastline. US East Coast and West Coast ports provide critical gateways for transatlantic and transpacific trade, respectively, for the US into global markets.
 - __Arabian Gulf's Role in Global Trade:__ The Arabian Gulf region with 1,718 vessels in port, represented by ports in countries like UAE, Saudi Arabia, and Qatar, features in the top 10 list, reflecting its significance as a key maritime hub in the Middle East. Ports in the Arabian Gulf serve as vital nodes in global trade routes, connecting Asia, Europe, and Africa.
 <br />
 <br />
@@ -198,40 +195,39 @@ Port authorities and logistics operators can use this information to anticipate 
 - <img src="images/Top10_Ports_With_Most_Vessel_Traffic_By_Area_Local.jpg" width="300">
 
 - **The Top 10 Ports With The Most Vessel Traffic By Area Local:**
-- My analysis below gives an insight into The Top 10 Ports With The Most Vessel Traffic By Area Local:
-- __Dominance of the Yellow Sea:__ The Yellow Sea emerges as the area with the highest vessel traffic, with a substantial count of 4,210 vessels in port. This underscores the Yellow Sea's significance as a major maritime thoroughfare, connecting ports in China, South Korea, and North Korea.
-- __US Coastlines in Second and Third Place:__ The US West Coast and US East Coast rank second and third with 1,931 and 1,695 vessels respectively, in terms of vessel traffic within their local areas. These regions are vital maritime gateways for trade between the United States and Asia, Europe, and other regions around the world.
-- __Importance of West Coast Canada:__ West Coast Canada, represented by ports in British Columbia, demonstrates significant vessel traffic, ranking fourth on the list qith 841 vessels in port. Ports in this region serve as key hubs for trade between Canada, Asia, and the Pacific Rim countries.
-- __Mediterranean and Indian Coasts Presence:__ The West Mediterranean and West Coast India regions with 537 and 505 vessels in port, respectively, also feature in the top 10 list, highlighting their importance in regional maritime trade. These areas serve as crucial nodes in global shipping routes, connecting Europe to the Middle East, Africa, and Asia.
-- __West Africa and South America Representation:__ West Africa and West South America regions have notable vessel traffic with 353 and 259 vessels in port, resepectively, indicating the importance of ports in these areas for trade and commerce. Ports in West Africa and South America play key roles in facilitating trade between these regions and other parts of the world.
-- __Lower Traffic in West Australia and White Sea:__ West Australia and the White Sea regions have comparatively lower vessel traffic, with 66 and 58 vessels in port, respectively.
-While these regions may have fewer ports or lower trade volumes compared to other areas, they still contribute to local and regional economies.
+- Below is an analysis of the top 10 ports with the most vessel traffic by area local:
+- __Yellow Sea Dominance:__ According to this data, the Yellow Sea is the area with the most vessel traffic, recording a high count of 4,210 vessels in port. This is an underpin on the Yellow Sea's significance as a major maritime thoroughfare that links China, South Korea, and North Korea.
+- __US Coastlines Second and Third in Rankings:__  US West Coast and US East Coast take second and third place with 1,931 and 1,695 vessels, respectively, in regard to vessel traffic within the locales. They form the very core of sea-based gateways that service maritime commerce between the US and Asia, Europe, and other parts of the world.
+- __Importance of West Coast Canada:__ West Coast Canada ranked fourth on the list at 841 vessels in port, representing all the ports in British Columbia. Ports in this region play a significant role in acting as main hubs for trade between Canada, Asia, and the countries of the Pacific Rim.
+- __Mediterranean and Indian Coasts Presence:__ The areas of West Mediterranean and West Coast India, with 537 and 505 vessels in port, respectively, are also within the top 10 list, underpinning their significance in regional sea trade. These areas form vital nodes in global shipping routes, linking Europe to the Middle East, Africa, and Asia.
+- __West Africa and South America Representation:__ The vessel traffic in West Africa and West South America is 353 and 259 vessels, respectively, in port, indicating that these regions have ports relevant for trade and commerce. In West Africa and South America, the role of their ports is crucial for trade flows to and from these regions with the rest of the world.
+- __Lower Traffic in West Australia and the White Sea:__ In comparison, West Australia and the White Sea have lower vessel traffic, with 66 and 58 vessels in port, respectively.
+These areas may have fewer number of ports or lower trade volumes compared to other areas; however, they play their part in local and regional economies.
 <br />
 <br />
 
 - <img src="images/Top15_Ports_By_Vessels_In_Port_Vessels_Departed_Vessels_Arrived_Trend.jpg" width="400">
 
 - **Top 15 Ports By Vessels In Port, Vessels Departed and Vessels Arrived:**
-- In this analysis of the Top 15 Ports By Vessels In Port, Vessels Departed and Vessels Arrived, the details below gives us insights into this analysis:
-- __Shanghai Dominates Across Metrics:__ Shanghai emerges as the top port across all metrics, with the highest number of vessels in port, arrivals, and departures which are 2,420, 1,626 and 1,376 vessels resctively. This underscores Shanghai's status as a major global maritime hub and a critical node in international trade routes.
-- __Regional Trends in China:__ Chinese ports, including Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, and Zhoushan, feature prominently in the top 15 list. This highlights China's dominance in the maritime industry, with several ports handling significant volumes of vessel traffic.
-- __Singapore's Role as a Global Hub:__ Singapore ranks among the top ports in terms of vessels in port, arrivals, and departures with 1,109, 1,748 and 1,682 vessels respectively, highlighting its importance as a key maritime hub in Southeast Asia. Singapore's strategic location, world-class infrastructure, and efficient port operations contribute to its prominence in global trade and logistics.
-- __Variety of Port Functions:__ Ports like Tianjin, Jinzhou Anch, and Hong Kong demonstrate significant vessel traffic, indicating their importance in regional and international trade.
-Each port may have distinct functions and specialties, catering to specific types of cargo or serving as transshipment hubs.
-- __European Ports in the Mix:__ European ports like Amsterdam feature in the top 15 list with 767 vessels in port, 228 arrivals and 179 departures, reflecting their role in facilitating trade between Europe, Asia, and other regions. European ports leverage their strategic location, efficient logistics networks, and advanced infrastructure to attract vessel traffic and support global trade flows.
+- Below are the top 15 ports by vessels in port, vessels departed, and vessels arrived. The details below help us in getting insights into this analysis.
+- __Shanghai Dominant Across Metrics:_ Shanghai is the outright leader across all metrics, topping vessels in port, arrivals, and departures. With 2,420, 1,626, and 1,376 vessels respectively, this underlines the status of Shanghai as a major global maritime hub and a critical node in international trade routes.
+- __Regional Trends in China:__ The Chinese ports in the top 15 include Nantong, CJK, Nanjing, Jiangyin, Zhangjiagang, and Zhoushan. All of these illustrate the domination of China in the industry, where many of its country's ports handle enormous vessel traffic.
+- __Singapore as an International Hub:__ Singapore is ranked among the best ports in terms of vessels in port, arrivals, and departures, accounting for 1,109, 1,748, and 1,682 vessels respectively. This places the country at par as one of the vital maritime centers in Southeast Asia. A strategic geographical position, world-class infrastructure, and efficient port operations set Singapore very prominent across global trade and logistics.
+- __Variety of Port Functions:__ In the process, many vessels visit the ports of Tianjin, Jinzhou Anch, and Hong Kong, thereby trying to prove their importance in regional and international trade.
+Several individual ports may vary in function or tend to be better suited to handling particular cargoes or operating as transshipment hubs.
+- __European Ports in the Mix:__ The top 15 also feature European ports, including Amsterdam, with 767 vessels in port, 228 arrivals, and 179 departures. What this has done is emphasize the central role these European ports will play insofar as trade between Europe, Asia, and the rest of the world is concerned. European ports occupy a unique position, and with their effective logistics networks and well-developed infrastructure, they continue to attract vessel traffic in support of global trade flows.
 <br />
 <br />
 
 - <img src="images/Port_Locations_Across_Continents_%26_Countries.jpg" width="400">
 
 - **Port Locations Across Continents and Countries:**
-- The geospatial map displaying port locations, countries, port types, the number of ports and vessels in port offers valuable insights into the "Shipping Ports Around The World Analysis." Here's the analysis details:
-- __Visual Representation of Global Port Infrastructure:__ The geospatial map provides us with a visual representation of port infrastructure across continents and countries. It offers an intuitive understanding of the spatial distribution of ports, highlighting their clustering in different regions.
-- __Identification of Continental and Country-Level Port Distribution:__  The map enables us identify the regions with a high concentration of ports, such as coastal areas and major river deltas.
-- __Insights into Port Types and Their Distribution:__ By displaying port types on the map, we are enabled to identify the different types of ports, such as port, canal, marina, and anchorage. Understanding the distribution of port types provides insights into the diverse functions and roles that ports play in facilitating maritime trade and transportation.
-- __Quantification of Port Infrastructure:__ In this map, port infrastructure are depicted as the the number of ports within each country or region can viewed. This quantitative data offers insights into the scale of maritime infrastructure and the level of maritime activity across different parts of the world.
-- __Assessment of Vessel Activity:__ In addition to port infrastructure, this map displays the number of vessels in port, providing insights into maritime traffic and activity levels.
-High concentrations of vessels in certain ports may indicate significant trade volumes, economic activity, and strategic importance.
+- The geospatial map showing the locations of ports, countries, port types, the number of ports and vessels at port provides great insight into the "Shipping Ports Around The World Analysis. Here's the analysis details:
+- __Visualizing Global Port Infrastructure:__ The geospatial map creates a visualization of the port infrastructure across continents and countries. It provides an intuitive sense of how the ports are spatially distributed, with clustering in different regions.
+- __Identification of Continental and Country-Level Port Distribution:__ The map will let us identify the highly concentrated regions of ports, normally being the coastal areas and major river deltas.
+- __Types of Ports and Their Distribution:__ We can visualize the diversity of port types, like port, canal, marina, and anchorage. Knowing the distribution of types lets us know how different kinds of functions and roles the ports perform in facilitating sea trade and transportation.
+- __Quantification of Port Infrastructure:__ This map shows the port infrastructure in terms of the number of ports that a country or region has. This is quantitative data, which describes the extent of maritime infrastructure and the reach of maritime activity across different parts of the world.
+- __Vessel Activity Assessment:__ Except for the seaport infrastructure, this map represents the vessel count in a port and captures an overview of the kind of maritime traffic and level of activity. Big numbers of vessels seen in some of the more famous ports reflect significant trade volumes, showing strong economic activities and strategic positions.
 <br />
 <br />
 
@@ -242,15 +238,16 @@ You can view and interact with this dashboard report [here](https://app.powerbi.
 <br />
 
 ## Recommendations For Improving The Efficiency of Shipping Port Services Globally:
-- __Investment in Infrastructure:__ Governments and port authorities should prioritize investment in port infrastructure to enhance capacity and efficiency. This includes expanding terminal facilities, modernizing equipment, and improving navigation channels to accommodate larger vessels.
-- __Implement Advanced Technology:__ Adoption of advanced technologies such as automation, Internet of Things (IoT), and Artificial Intelligence (AI) can streamline port operations, optimize cargo handling processes, and reduce turnaround times for vessels.
-- __Enhance Intermodal Connectivity:__ Improving intermodal connectivity between ports and hinterland transportation networks (road, rail, and inland waterways) is essential to facilitate seamless cargo movement and reduce congestion in and around ports.
-- __Implement Port Community Systems:__ Deployment of Port Community Systems (PCS) facilitates electronic data exchange and collaboration among stakeholders, including shipping lines, terminal operators, customs authorities, and logistics providers. This promotes efficient information flow and coordinated operations within ports.
-- __Optimize Berth Allocation:__ Implementing berth scheduling and allocation systems based on predictive analytics and real-time data can optimize vessel traffic management, reduce idle time for ships, and enhance berth utilization efficiency.
-- __Facilitate Collaboration and Partnerships:__ Foster collaboration and partnerships among port stakeholders, including public and private entities, shipping lines, terminal operators, and logistics providers, to address common challenges, share best practices, and drive continuous improvement in port operations.
-- __Invest in Workforce Training and Development:__ Provide training programs and skill development initiatives for port personnel to enhance their competencies in handling modern port equipment, managing digital technologies, and implementing best practices in port operations and management.
-- __Develop Contingency Plans:__ Develop robust contingency plans and risk management strategies to mitigate the impact of disruptions, such as natural disasters, pandemics, or geopolitical events, on port operations and ensure business continuity.
+- __Infrastructure Investment:__ Governments and port authorities have to make investments in port infrastructure to increase its capacity and efficiency. It would mean terminal expansion, modernization of equipment, and deepening of navigational channels to accommodate larger-sized vessels.
+- __Advanced Technologies:__ Advanced technologies such as automation, IoT, and AI can make a difference in smoothening operations at the ports and bring in efficiencies in cargo handling processes to shorten the turn-around time of vessels.
+- __Improved Intermodal Connectivity:__ Intermodal connectivity between the ports and hinterland road, rail, and inland waterways networks needs to be improved for smooth evacuation of cargo and decongestion of the area in and around the ports.
+- __Port Community Systems to Be Implemented:__ PCS implementation will enhance the electronic exchange of data and information between all stakeholders, who include shipping lines, terminal operators, customs, and logistics providers. This enhances the efficient flow of information and the coordination of operations in ports.
+- __Optimize Berth Allocation:__ This is a prediction-based berth scheduling and allocation system that can be implemented with predictive analytics, wherein real-time data is used to enhance the efficiency of vessel traffic management, reducing idle time for ships and increasing berth utilization.
+- __Facilitate Collaboration and Partnerships:__ Organize collaboration and partnerships between the different stakeholders at the port, public and private entities, shipping lines, terminal operators, and logistic providers toward problem-solving, sharing best practices, and operation efficiency improvement at the port.
+- __Training and Workforce Development:__ Organize some training programs or skill development activities to enhance the competencies of port personnel in handling modern port equipment, digital technologies, and best practices in various aspects of port operations and management.
+- __Contingency Plans Development:__ Elaborate on the contingency plans and risk management strategies that might help reduce the impact on port operations in case disasters, pandemics, or other geopolitical events occur, and ensure business continuity.
 <br />
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_you.jpg)
