@@ -76,8 +76,7 @@ Below are some information on the fields we have in this dataset for a better un
 ### Tools Used
 1. Power Query Editor
     - Was used to:
-        1. Extract,
-        2. Clean,
+        1. Clean
         3. Transform all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
