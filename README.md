@@ -77,7 +77,7 @@ Below are some information on the fields we have in this dataset for a better un
 1. Power Query Editor
     - Was used to:
         1. Clean
-        3. Transform all the datasets for this analysis.
+        3. Transform the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
